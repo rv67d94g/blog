@@ -1,0 +1,162 @@
+Building sites … WARN 2020/03/04 10:30:48 Page.URL is deprecated and will be removed in a future release. Use .Permalink or .RelPermalink. If what you want is the front matter URL value, use .Params.url
+
+                   | EN  
+-------------------+-----
+  Pages            | 22  
+  Paginator pages  |  2  
+  Non-page files   |  0  
+  Static files     |  9  
+  Processed images |  0  
+  Aliases          |  2  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Built in 220 ms
+Watching for changes in /home/chenlaijin325/giiit/blog/{archetypes,content,data,layouts,static,themes}
+Watching for config changes in /home/chenlaijin325/giiit/blog/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+
+Change detected, rebuilding site.
+2020-03-04 10:31:11.741 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/contact.md": WRITE
+Total in 18 ms
+
+Change detected, rebuilding site.
+2020-03-04 10:31:22.741 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/contact.md": WRITE
+Total in 48 ms
+
+Change detected, rebuilding site.
+2020-03-04 10:31:26.743 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/_index.md": WRITE
+Total in 22 ms
+
+Change detected, rebuilding site.
+2020-03-04 10:39:38.740 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/about/_index.md": WRITE
+Total in 20 ms
+
+Change detected, rebuilding site.
+2020-03-04 10:39:57.740 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/about/_index.md": WRITE
+Total in 39 ms
+
+Change detected, rebuilding site.
+2020-03-04 10:40:05.744 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/about/_index.md": WRITE
+Total in 40 ms
+
+Change detected, rebuilding site.
+2020-03-04 10:40:55.741 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/about/_index.md": WRITE
+Total in 35 ms
+
+Change detected, rebuilding site.
+2020-03-04 10:41:03.740 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/about/_index.md": WRITE
+Total in 66 ms
+
+Change detected, rebuilding site.
+2020-03-04 10:41:19.741 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/about/_index.md": WRITE
+Total in 34 ms
+
+Change detected, rebuilding site.
+2020-03-04 10:43:04.747 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/about/_index.md": WRITE
+Total in 72 ms
+
+Change detected, rebuilding site.
+2020-03-04 10:43:58.749 -0500
+WARN 2020/03/04 10:43:58 Page.URL is deprecated and will be removed in a future release. Use .Permalink or .RelPermalink. If what you want is the front matter URL value, use .Params.url
+Rebuilt in 653 ms
+
+Change detected, rebuilding site.
+2020-03-04 10:46:09.741 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/about/_index.md": WRITE
+Total in 37 ms
+
+Change detected, rebuilding site.
+2020-03-04 10:46:25.740 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/about/_index.md": WRITE
+Total in 20 ms
+
+Change detected, rebuilding site.
+2020-03-04 10:46:37.741 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/about/_index.md": WRITE
+Total in 19 ms
+
+Change detected, rebuilding site.
+2020-03-04 10:46:43.741 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/about/_index.md": WRITE
+Total in 25 ms
+
+Change detected, rebuilding site.
+2020-03-04 10:52:01.741 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/about/_index.md": WRITE
+Total in 32 ms
+
+Change detected, rebuilding site.
+2020-03-04 10:52:32.741 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/about/_index.md": WRITE
+Total in 45 ms
+
+Change detected, rebuilding site.
+2020-03-04 11:04:33.744 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/compare.md": WRITE
+Total in 67 ms
+
+Change detected, rebuilding site.
+2020-03-04 11:04:55.740 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/compare.md": RENAME
+Source changed "/home/chenlaijin325/giiit/blog/content/post/compare.md": CREATE
+WARN 2020/03/04 11:04:55 Page.URL is deprecated and will be removed in a future release. Use .Permalink or .RelPermalink. If what you want is the front matter URL value, use .Params.url
+Total in 67 ms
+
+Change detected, rebuilding site.
+2020-03-04 11:05:44.744 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/post/compare.md": WRITE
+WARN 2020/03/04 11:05:44 Page.URL is deprecated and will be removed in a future release. Use .Permalink or .RelPermalink. If what you want is the front matter URL value, use .Params.url
+Total in 71 ms
+
+Change detected, rebuilding site.
+2020-03-04 11:06:08.740 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/post/compare.md": WRITE
+WARN 2020/03/04 11:06:08 Page.URL is deprecated and will be removed in a future release. Use .Permalink or .RelPermalink. If what you want is the front matter URL value, use .Params.url
+Total in 67 ms
+
+Change detected, rebuilding site.
+2020-03-04 11:07:10.741 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/post/compare.md": WRITE
+WARN 2020/03/04 11:07:10 Page.URL is deprecated and will be removed in a future release. Use .Permalink or .RelPermalink. If what you want is the front matter URL value, use .Params.url
+Total in 77 ms
+
+Change detected, rebuilding site.
+2020-03-04 11:07:37.740 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/post/compare.md": WRITE
+WARN 2020/03/04 11:07:37 Page.URL is deprecated and will be removed in a future release. Use .Permalink or .RelPermalink. If what you want is the front matter URL value, use .Params.url
+Total in 68 ms
+
+Change detected, rebuilding site.
+2020-03-04 11:08:32.740 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/post/compare.md": RENAME
+Source changed "/home/chenlaijin325/giiit/blog/content/post/compare.html": CREATE
+WARN 2020/03/04 11:08:32 Page.URL is deprecated and will be removed in a future release. Use .Permalink or .RelPermalink. If what you want is the front matter URL value, use .Params.url
+Total in 121 ms
+
+Change detected, rebuilding site.
+2020-03-04 11:08:55.741 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/post/compare.html": RENAME
+Source changed "/home/chenlaijin325/giiit/blog/content/post/compare.md": CREATE
+WARN 2020/03/04 11:08:55 Page.URL is deprecated and will be removed in a future release. Use .Permalink or .RelPermalink. If what you want is the front matter URL value, use .Params.url
+Total in 62 ms
+
+Change detected, rebuilding site.
+2020-03-04 11:09:50.741 -0500
+Source changed "/home/chenlaijin325/giiit/blog/content/post/manifesto_zh(html).md": CREATE
+Source changed "/home/chenlaijin325/giiit/blog/content/post/manifesto_zh(html).md.crdownload": RENAME
+Total in 14 ms

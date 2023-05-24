@@ -1,0 +1,2844 @@
+Save Page as PDF File
+Source : https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fwww.tomandmaria.com%2FTom%2FWriting%2FAnnals2006WP.pdf
+This is the html version of the file https://www.tomandmaria.com/Tom/Writing/Annals2006WP.pdf. Google automatically generates html versions of documents as we crawl the web.
+Tip: To quickly find your search term on this page, press Ctrl+F or ⌘-F (Mac) and use the find bar.
+Page 1
+Most people first experienced word processing
+as an application of the personal computer.
+During the 1980s, word processing rivaled and
+eventually overtook spreadsheet creation as the
+most widespread business application for per-
+sonal computers.1 By the end of that decade, the
+typewriter had been banished to the corner of
+most offices, used only to fill out forms and
+address envelopes. By the early 1990s, high-qual-
+ity printers and powerful personal computers
+were a fixture in middle-class American house-
+holds. Email, which emerged as another key
+application for personal computers with the
+spread of the Internet in the mid-1990s, essen-
+tially extended word processing technology to
+electronic message transmission. To the casual
+observer, word processing might thus appear to
+be among the most creative and important appli-
+cations originated by the personal computer.
+But in fact word processing was already the
+center of a thriving industry well before the
+personal computer gained general acceptance
+in business. Historians have not yet explored
+word processing’s development, and so to pro-
+vide a rounded treatment, I examine the story
+from multiple perspectives. I review the con-
+ceptual development of word processing and
+office automation; the development of word
+processing’s constituent hardware and software
+technologies; the relationship of word process-
+ing to changes in the organization of office
+work; and the business history of the word pro-
+cessing industry.
+Word processing: Overview
+Word processing’s origins are complex and
+various: Consider the genesis of the term word
+processing. Today, when someone talks about
+using a word processor, we think of a software
+package, such as Microsoft Word. However, in
+the early 1970s, when the idea of word process-
+ing first gained prominence, it referred to a new
+way of organizing work: an ideal of centralizing
+typing and transcription in the hands of spe-
+cialists equipped with technologies such as auto-
+matic typewriters. The word processing concept
+was promoted by IBM to present its typewriter
+and dictating machine division as a comple-
+ment to its “data processing” business. Within
+the word processing center, automatic typewriters
+and dictating machines were rechristened word
+processing machines, to be operated by word
+processing operators rather than secretaries or
+stenographers. Quickly, however, the term
+acquired a more specialized meaning to refer
+almost exclusively to computerized text editing
+systems aimed at office applications.
+Computerized word processing does not fit
+the conventional concept of a distinct inven-
+tion, attributable to a particular time, place, and
+brilliant mind. The creation of a distinct market
+for computerized word processing systems dur-
+ing the early 1970s was more a matter of repack-
+aging, integrating, and marketing technologies
+already devised for different purposes. Word
+processing software’s core technical capabilities
+were taken from text editors, used to manipu-
+late program code on time-sharing computer
+systems since the 1960s. Word processing sys-
+tems also drew on techniques in a number of
+broader, longer established fields in which com-
+puters were used to store, retrieve, index, and
+format textual information.
+During the 1970s, the falling cost of inter-
+active computer access made it practical to
+apply the same techniques to ordinary admin-
+IEEE Annals of the History of Computing
+Published by the IEEE Computer Society
+1058-6180/06/$20.00 © 2006 IEEE
+Remembering the Office of the Future:
+The Origins of Word Processing
+and Office Automation
+Thomas Haigh
+University of Wisconsin
+Word processing entered the American office in 1970 as an idea
+about reorganizing typists, but its meaning soon shifted to describe
+computerized text editing. The designers of word processing systems
+combined existing technologies to exploit the falling costs of
+interactive computing, creating a new business quite separate from
+the emerging world of the personal computer.
+istrative work, meaning that word processing’s
+invention as a new computer application was
+more a matter of marketing than of any software
+breakthrough. During the 1970s, the first wide-
+ly used computerized word processing systems
+were not application programs for general-
+purpose personal computers but minicomputer-
+based systems and special-purpose computer
+packages dedicated to clerical work. By the end
+of the 1970s, when someone spoke of purchas-
+ing a “word processor,” he or she would have
+most likely been referring to a specialized com-
+puter system such as Wang Labs’ Word
+Processing System. Only later did people begin
+to assume that a word processor was a program
+rather than a machine.
+By the late 1970s, the computer industry was
+promoting a new vision—office automation—
+of which word processing was just a small part.
+The most advanced word processing systems of
+the early 1980s, such as the famous-in-retro-
+spect Xerox Star, were created not as self-con-
+tained applications for stand-alone personal
+computers but as office automation systems for
+networked workstations. In the paperless office
+of the future, a multifunction networked work-
+station with word processing, email, and graph-
+ical and voice capabilities would sit on the desks
+of every manager and every professional.
+I argue that office automation represented a
+decisive break with the earlier concept of word
+processing, based as it was on the segregation
+of document preparation in the hands of spe-
+cialist clerical workers. However, office automa-
+tion ran into technological, economic, and
+social problems. Workstations were expensive,
+while managers and professionals proved a
+more elusive target than typists for office effi-
+ciency experts. These systems were not widely
+adopted, but the broader vision of the elec-
+tronic office they represented was eventually
+realized when personal computer hardware and
+software matured in the mid-1990s.
+Instead of adopting specialist office work-
+stations, most companies gradually shifted
+from word processing systems to stand-alone
+personal computers. These spread word pro-
+cessing power more broadly, shifting editing
+work from word processing centers into the
+hands of department secretaries and, increas-
+ingly, of managerial and professional workers.
+Far from breaking new technical ground, the
+leading personal-computer word processing
+programs of the late 1970s and 1980s—such as
+EasyWriter, WordStar, and MultiMate—merely
+gave an increasingly good imitation of the
+more expensive and capable special-purpose
+systems. From this perspective, the prolifera-
+tion of personal computers in the early 1980s
+triggered a 10-year detour away from the net-
+worked office model being promoted by the
+leading office automation equipment suppliers
+of the period. In a pair of articles elsewhere in
+this issue, Tim Bergin details the history of per-
+sonal computer word processing packages; con-
+sequently, my analysis here is confined to a
+sketch comparing their abilities with those of
+earlier specialized systems.
+Invention of word processing
+The phrase word processing was nowhere to
+be found in 1960s office management or com-
+puting literatures, though many of the ideas,
+products, and technologies to which it would
+later be applied were already well known. By
+1972, however, discussion of word processing
+was common in publications devoted to office
+management and technology, and by the mid-
+1970s the term would have been familiar to
+any manager who regularly consulted general-
+interest business periodicals. Word processing
+paralleled the more general data processing,
+which since the 1950s had been the standard
+term used to describe the application of com-
+puters to business administration.2
+Coinage of word processing is usually attributed
+to Ulrich Steinhilper, a German IBM typewriter
+sales executive. In his memoir, Steinhilper wrote
+that he devised the concept in the mid-1950s
+and promoted it for many years within IBM’s
+Office Products Division. He submitted the dia-
+gram shown in Figure 1 to IBM’s internal sug-
+gestion program, receiving just 25 Deutsch
+Marks and a reply that the idea was “too com-
+October–December 2006
+Figure 1. Steinhilper’s chart, which he claims to
+have devised in 1955, reflects his original sense of
+word processing as a concept that would put
+IBM’s Office Products Division on an equal footing
+with its Data Processing Division. (Courtesy of
+Ulrich Steinhilper.)
+IEEE Annals of the History of Computing
+Remembering the Office of the Future
+plicated to explain.” According to Steinhilper,
+the term finally caught on after he used it in a
+1966 speech to senior Office Products Division
+managers gathered at the Miami meeting of the
+Hundred Percent Club of successful IBM sales-
+people where he lobbied, unsuccessfully, for
+Word Processing as a new name for the entire
+Office Products Division. In 1971, once the con-
+cept finally gained traction, Steinhilper was
+awarded an Outstanding Achievement Award
+and a trip around the world for having
+authored and promoted it. It had particular
+appeal to typewriter salespeople within IBM as a
+linguistic means of putting the Office Products
+Division (formerly the Electric Typewriter
+Division) on a more equal basis with the mighty
+Data Processing Division. The word processing
+concept cast the two groups as responsible for
+different, but equally important-sounding,
+kinds of business processing. Steinhilper recalls
+that its genesis came when he realized that
+We could confidently state that IBM, with its DP
+division, assisted in many ways in the processing
+of pages containing data, but could we say the
+same for the written word? Shouldn’t we now, I
+asked, not also follow in the same direction with
+the Electric Typewriter Division?3
+The first sustained public attempt to pro-
+mote the idea of word processing to a broad
+American audience came in the minor office
+management and office equipment trade pub-
+lication Administrative Management. In June
+1970 it published a short article on a new word
+processing center at Auburn University, which
+had been “working closely with the local IBM
+representative” to centralize typing and dictat-
+ing operations. This may have been the earliest
+mention of word processing in the American
+press. In December 1970, it ran a feature article
+on automatic typing systems that included the
+following definition:
+“Word processing,” a concept that combines the
+dictating and typing functions into a centralized
+system, is replacing the one-man, one-secretary,
+one-typewriter idea in a growing number of
+firms. By organizing the flow of office corre-
+spondence on a more efficient basis, word pro-
+cessing is becoming to typing what Henry Ford’s
+assembly line was to the original methods used
+for automobile making.4
+Then in June 1971, Administrative Management
+devoted a special 32-page section to the new
+concept. Administrative Management continued
+to heavily promote word processing. It pub-
+lished a bimonthly magazine-within-a-maga-
+zine devoted to word processing, its publishers
+launched a separate twice-monthly newslet-
+ter—Word Processing Reports—to spread news of
+developments in the field, and its editor, Walter
+A. Kleinschrod, published a small book on the
+subject in conjunction with the American
+Management Association.5 Other publications
+rushed to offer their own reports on the new
+field, and within a few months, a cluster of
+conferences, organizations, and consulting
+operations had grown up devoted to word
+processing.6 The public’s exposure to the con-
+cept of word processing took place almost
+simultaneously with the spread of the then-
+novel term food processor, a term introduced to
+the US in 1973 by Cuisinart to describe a mul-
+tifunctional kitchen device able to chop, blend,
+and mix.7
+But what was word processing? Administrative
+Management set the pattern for the next few
+years by defining word processing as a general
+approach to the reorganization of clerical work
+around new and emerging technologies. In its
+earliest days, the concept of word processing
+did not refer exclusively, or even primarily, to
+the use of full-screen video text editing.
+Advocates focused on a human rather than a
+technological goal. They sought to eliminate
+the practice of supplying individual managers
+or small work groups with their own “general-
+purpose secretaries” responsible for tasks rang-
+ing from filing and answering the telephone to
+making coffee and sorting the mail. In his
+book, Kleinschrod quoted findings that such
+women might spend just 2 percent of their
+time taking dictation and 19 percent of it typ-
+ing and proofing documents. This meant that
+“her typing may not necessarily be all that
+good,” that “it’s very hard to establish proce-
+dures and controls over what she does,” and
+that she would spend much of her time sitting
+around waiting for something to do.5
+The traditional secretary was seen as the
+enemy of efficiency. The solution was to move all
+typing and dictation work to a centralized word
+processing center, where it could be handled by
+highly skilled, specialized typists and stenogra-
+phers doing nothing but typing and transcrip-
+tion all day, using the most advanced equipment
+available. Kleinschrod suggested that a word pro-
+cessing center might achieve “a speedup from
+500 to 1000 percent” provided that “the place is
+properly supervised [with] good methods, con-
+trols and standards.”8 He recommended
+a formalized work-measurement, work standards
+program. This involves the familiar techniques
+October–December 2006
+of task analysis, methods-time measurement,
+standard allowed hours—techniques long used
+in the factory and in certain clerical areas and
+now being expanded to encompass WP.8
+The technologies of early word
+processing
+Although word processing was primarily a
+managerial rather than a technological con-
+cept, its sudden popularity owed much to a
+growing sense in the early 1970s that technol-
+ogy was about to transform the office. Because
+the new technology was bound to be compli-
+cated and expensive, this appeared to support
+the idea that clerical work would have to be
+specialized and centralized to take full advan-
+tage of its potential. Early news stories on word
+processing liked to point out that each factory
+worker was responsible for an average of
+$25,000 worth of equipment, whereas the poor
+clerical worker had only $2,000 worth of capi-
+talization behind her.9
+Thus, the stories
+claimed, rising office labor costs reflected a fail-
+ure to invest.
+An Administrative Management editorial in
+January 1970 set the tone: “By the end of the
+1970s,” it suggested, “we should have climbed
+out of the Gutenberg rut. Paper—memos, letters
+and other business forms—will have been
+replaced to a large extent by electronic commu-
+nications devices.” This bold claim was based on
+the potential of dictating machines, calculators,
+and microfilm, rather than any clearly articulat-
+ed expectations for the use of computers in the
+office. However, the author did anticipate com-
+puterized word processing with the rather vague
+prediction that “[t]ypewriters will continue to
+become more automated. They will be hooked
+into a growing number of [electronic data pro-
+cessing] systems.” 10
+Two technologies were particularly associat-
+ed with word processing: dictating machines
+and automatic typewriters. In its seminal 1971
+special issue, Administrative Management includ-
+ed feature articles on both. “System Stage 1:
+Dictating Machines Sound Off Four Ways”
+reviewed developments in dictating technolo-
+gy. Technological advancements in dictating
+technology meant that desktop (and even
+handheld) cassette machines were common by
+the early 1970s, but word processing advocates
+were particularly excited by the ability of cen-
+tralized systems, hooked into telephone switch-
+boards, to provide a “continuous flow” of
+material from executive desks to busy tran-
+scribers. “System Stage II: Automatic Typing
+and Text Editing Devices” concerned itself with
+automatic typewriters.
+This sense of word processing as a broad
+approach, including a variety of specific tech-
+nologies, typified the early 1970s. IBM liked to
+apply the term to as many of its office products
+as possible. In the same 1971 Administrative
+Management issue, an advertisement (see Figure
+2 next page) from IBM’s Office Products Division
+suggested that its “range of word processing
+machines” included dictating machines, type-
+writers, and copiers.11 According to one IBM
+document, the next year the Office Products
+Division “announced that all of its dictating
+equipment would be known as ‘input process-
+ing equipment’ since the term better describes
+the equipment’s function within the total word
+processing concept.”12 A 1974 report noted that
+the division was “calling virtually everything it
+makes a piece of word processing equipment—
+from a dictating machine on up to an office
+copier.”13 Although dictating machines gradu-
+ally slipped from definitions of word processing,
+discussion of word processing equipment con-
+tinued to include electronic typewriters and
+other devices without large video displays well
+into the 1980s.14
+Automatic typewriters were already a famil-
+iar office technology by the 1970s. They cou-
+pled a typewriter mechanism with an automatic
+control unit. The technology received its first
+widespread use in printing telegraphs, where a
+message entered on a keyboard was printed on
+a typewriter mechanism hundreds of miles
+away. One of the first automatic typewriters
+intended for clerical use, the 1917 Hoven
+Automatic Typewriter, used a wide tape roll and
+a mechanism modeled on a player piano to
+type up to 130 words a minute.15 These
+machines were useful when preparing letters
+that included a mix of standard paragraphs
+with individualized elements. Other models
+gradually appeared, including the pneumatic
+1935 Robotyper.
+The 1950s saw widespread use of a more
+compact breed of automatic typewriter driven
+by six-track paper tapes, such as the Friden
+Flexowriter. Although Flexowriters are best
+remembered today in their role as I/O devices
+for many early computers or as terminals for
+corporate communication networks, they could
+also be used in a freestanding mode to record
+and play back text typed on the keyboard.
+In 1964, IBM’s Electric Typewriter Division
+introduced the IBM MT/ST or “Magnetic Tape
+‘Selectric’ Typewriter”. This machine coupled a
+Selectric or “golf-ball” typewriter with a bulky
+cabinet holding an electronic control mecha-
+nism that recorded keystrokes onto magnetic
+tape cassettes. Each tape could store 28,000
+characters. One novel feature was the ability to
+insert special codes on the tape to mark the
+start and end points of standard blocks of text.
+The biggest advance, however, came in its abil-
+ity to correct simple typing mistakes. When a
+mistake was made, the operator would simply
+backspace the typewriter and retype the correct
+text over the error. This left a mess on the
+paper, but after finishing the page the operator
+would insert a blank sheet and wait, as the
+machine rewound the tape and retyped the
+corrected version at the rate of about 175 words
+a minute. The operator needed several months’
+experience and had to learn many special con-
+trol sequences to become fully productive. The
+term power typing was often used to describe
+this new, more flexible kind of automatic typ-
+ing.16 The machines were also sometimes called
+editing typewriters.
+When the first word processing centers were
+established in the early 1970s, most relied on
+IBM MT/ST machines. As a text editor, the
+MT/ST had some flaws. In particular, it was
+hard to edit text once it was recorded on tape,
+although this could be overcome by linking
+two machines together to copy the document
+from one tape to another, up to the point
+where editing was required. Things improved
+with the MT/ST Mark IV, which merged two
+tape drives into a single unit to make editing
+easier and to automate mail-merge operations
+(one tape would hold the outline of a standard
+letter and the other a list of names and other
+data to be inserted into personalized copies of
+the letter).
+Another Selectric, the MC/ST (Magnetic
+Card/Selectric Typewriter), introduced in 1969,
+used small magnetic cards with a capacity of
+5,000 characters. Neither model was particu-
+larly cheap—in 1972, the tape version sold for
+$7,875 and the card version for $7,150 (though
+many customers preferred to rent rather than
+buy). A more expensive machine, the MT/SC or
+“composer,” could take the MT/ST tape and
+output it using proportionally spaced letters
+and other then-novel formatting options.
+Because the Selectric typewriter mechanism
+was widely available, many IBM competitors
+IEEE Annals of the History of Computing
+Remembering the Office of the Future
+Figure 2. This 1971 IBM advertisement was one of the first to reflect the adoption of the phrase “word processing machines”
+by its Office Products Division as a new term for its dictation equipment, automatic typewriters, and copiers. (Courtesy of
+IBM Archives.)
+used it as the core of their own competitive
+automatic typing systems.17
+Early word processing in practice
+Enthusiasts depicted word processing centers
+as good news for operators, who could now
+upgrade their typing skills and earn more
+money, and for the surviving secretaries, or—as
+some thought they should now be called, once
+freed from typing and transcription duties—
+“administrative support” specialists. Business
+Automation, a leading trade magazine for busi-
+ness computer users, claimed in 1972 that
+[t]he personal relationship of bosses and secre-
+taries will be changed through the elimination
+of dictation and typing as we know it today.
+Secretarial duties will change greatly as tran-
+scription of dictation and the production of let-
+ters and documents is shunted more and more
+into a central word-processing center, freeing the
+secretary of much present-day typing drudgery.18
+These ideas were common in early discussions
+of word processing. The New York Times first
+reported on the idea in October 1971, suggesting
+that word processing had been the new buzz-
+word at the Business Equipment Manufacturer’s
+Association trade show. Under a picture of IBM’s
+latest automatic typewriter, the Times defined
+word processing as “the use of electronic equip-
+ment, such as typewriters; procedures, and
+trained personnel to maximize office efficiency.”
+The paper also suggested that this could be the
+“answer to Women’s Lib advocates’ prayers”
+because it would eliminate traditional secre-
+taries.19 The same month, a Chicago Tribune report
+gave a similar definition, opening with the claim
+that “Women’s Liberation has hit the technolo-
+gy field in the guise of a new theory called ‘word
+processing.’” The report, which relied heavily on
+quotations from IBM managers, suggested that
+“The basic unit of word processing is the IBM
+Selectric typewriter, adapted to magnetic tape,”
+that “the other mandatory tool” was a centralized
+dictating system connected to telephones, and
+that putting secretaries into a typing pool not
+only boosted productivity but also meant the
+women were given higher salaries with “more
+responsibility, less pressure.”20
+Nothing about the idea of centralizing typ-
+ing and dictation was novel, except for the
+name—word processing—itself. Advocates of
+word processing, such as Administrative
+Management magazine and the American
+Management Association, were part of a com-
+munity we can trace back to the scientific office
+management movement of the 1910s and
+1920s.21 That movement, in turn, was inspired
+by Frederick W. Taylor’s Principles of Scientific
+Management.22 The basic idea had changed lit-
+tle over 60 years: the office would work most
+efficiently when it resembled a factory in which
+workers were paid on a piece work or incentive
+bonus basis to perform highly specialized and
+repetitive tasks, slavishly following the optimal
+work procedures designed by experts. Expensive
+technology, scientific management adherents
+believed, could be justified only when com-
+bined with a fundamental redesign of work pro-
+cedures to optimize their effectiveness.
+Indeed, the prescriptions made by word pro-
+cessing experts of the early 1970s were identical
+to those made by office management experts of
+the 1910s with respect to an early generation of
+dictating machines. Both insisted true business
+benefits of the new technology would come pri-
+marily from work centralization and specializa-
+tion that the new machines would demand.
+Back in the 1920s, William Henry Leffingwell
+(often called the “father of scientific office man-
+agement”) had hailed the dictating machine as
+an invention with the power to revolutionize
+the office. He seized on it to justify the elimina-
+tion of shorthand stenography and in-person
+dictation, and its replacement with a central-
+ized pool of typists who would handle a con-
+stant stream of wax recording cylinders
+delivered by messenger boys.23 This would cen-
+tralize work in the hands of specialists, who
+could be monitored and paid on a production
+bonus system—exactly the objectives espoused
+50 years later by word processing experts.
+In reality, the word processing center suf-
+fered from many of the same disadvantages as
+the centralized dictating pool of a half-centu-
+ry before. In response to its first coverage of
+the topic, Business Automation published a let-
+ter written by a word processor operator from
+Evanston, Illinois, identified only as “D.W.”
+She complained about her physical condi-
+tions: MC/ST machines were noisy and the
+word-processor staff spent their entire work-
+ing day in cramped conditions looking direct-
+ly at a wall. But her bigger complaints were
+cultural. She was paid the lowest salary in the
+office and cut off from its social life, writing
+that “the people in the office regard those of
+us who run the machines as part of the
+machines rather than as human beings like
+themselves!” Early reports claimed that the
+shift to word processing reduced employee
+turnover, but D.W. disagreed. The work
+required people who were good typists, could
+spell, and would not become bored—a combi-
+nation she found rare. “Word processing
+October–December 2006
+removes nearly all of the remaining rewards of
+secretarial work. ... In the last year two-thirds
+of the word processing personnel in my office
+have left.” She was particularly prescient in
+her suggestion that the new technology would
+trigger endless rewrites, dashing hopes for
+paper savings.24 IBM’s early attempts to pres-
+ent centralized word processing centers as a
+breakthrough for feminism do not appear to
+have resonated with the women involved,
+however successful they initially were in grab-
+bing newspaper headlines.25
+Computerized word processing:
+Technical roots
+The original sense of word processing to
+mean a centralized pool of typewriter and dic-
+tating machine operators to boost clerical pro-
+ductivity is now long forgotten. But, as we have
+seen, when word processing first gained popu-
+larity in 1971, no companies were promoting
+computers as general-purpose text editing sys-
+tems suitable for routine office work. The devel-
+opment of what we would now think of as
+word processing technology, the use of com-
+puters to manipulate text, has a separate histo-
+ry from the concept of word processing. Only
+in the mid-1970s did people start to associate
+computers with word processing, and by late
+1970s this was perhaps the fastest growing and
+most fiercely contested segment of the entire
+computer industry. This was not the result of
+any single conceptual breakthrough or techni-
+cal innovation. Rather, computerized word pro-
+cessing was the recombination of existing
+technological capabilities, prompted by long-
+term declines in the cost of computer memory,
+disk storage, and processor power and a general
+shift toward distributed and interactive systems
+based on minicomputer and microprocessor
+technologies. Unlike some other breakthroughs
+in computer applications, such as the spread-
+sheet or relational database, the word proces-
+sor was the historically inevitable result of
+dozens of minor and largely anonymous
+advances in the packaging and application of
+existing technologies.
+To understand how this occurred, and
+where the technologies of computerized word
+processing came from, we must step back in
+time to explore a parallel history dating to the
+computer industry’s early days in the 1950s.
+The sudden emergence of computerized word
+processing in the office was made possible by a
+far more gradual evolution in computerized
+text manipulation. From a business viewpoint,
+computerized word processing was invented in
+the 1970s. From a technology viewpoint, how-
+ever, word processing’s various capabilities had
+all been demonstrated by the end of the 1950s
+(though not all in the same system): displaying
+text on a video screen, storing text for easy
+retrieval on a tape or disk, printing formatted
+text on a printer within established margins,
+numbering pages, editing text by inserting or
+deleting characters, and applying operations
+such as search and replace.
+Even in the 1950s, processing letters as well
+as numbers was not in the least novel.
+Admittedly, the first programmable computers,
+such as the Harvard Mark I and the ENIAC,
+were designed with numbers rather than letters
+in mind. But the nature of the stored-program
+digital computer as a general-purpose proces-
+sor of encoded symbols meant that storing and
+manipulating a string of letters was scarcely dif-
+ferent from manipulating and storing a string
+of numbers. Getting letters in and out of a com-
+puter was not a problem: punched card
+machines had added letters to their repertoire
+in the 1930s, and teletype machines could also
+handle textual input and store messages on
+paper tape.
+Early systems followed the lead of teletype
+machines in using just 6 bits of memory to
+store each character, restricting systems to
+uppercase letters and a handful of punctuation
+characters.26
+By the 1960s, however, the
+EBCDIC coding scheme created by IBM for its
+System 360 machines and the ASCII standard
+favored by much of the rest of the industry
+gave computer equipment an easy way to han-
+dle the full range of English characters in both
+upper- and lowercase and a full range of punc-
+tuation marks.27
+Computers thus had no absolute technical
+barriers preventing them from reading, analyz-
+ing, and printing text. However, this capabili-
+ty was never applied to general-purpose office
+work. It then seemed no more sensible to use a
+computer to edit than to travel to the shopping
+mall in a supersonic fighter jet. Only the plum-
+meting cost of interactive computing could
+IEEE Annals of the History of Computing
+Remembering the Office of the Future
+What we would now think
+of as word processing
+technology has a separate
+history from the concept of
+word processing.
+turn an absurd luxury into an expensive tool
+with economic justifications in specialized
+fields, and eventually into an inexpensive office
+commonplace. The business data-processing
+applications of the 1950s and 1960s squeezed
+textual information into rigidly defined and
+rather short fields such as “title” or “last name,”
+each corresponding to particular groups of
+columns on the punched input card. These
+would show up in the appropriate places on
+paychecks, invoices, and printed reports. This
+parsimony in text handling and storage is hard-
+ly surprising. Computer time was expensive,
+and space on disk drives and magnetic drums
+was limited.
+Early text processing
+Some specialized text processing applica-
+tions did develop during the 1950s and 1960s,
+generally where one or both of the following
+conditions were met. First, the application
+involved much analysis and manipulation of
+the encoded text, rather than simply storing or
+editing it. Second, those involved had access
+either to a vast amount of money or to com-
+puter facilities they were not required to pay for.
+A key feature of word processing systems,
+the automatic manipulation of text (literally,
+the processing of words), was pioneered in
+other systems early in the history of digital
+computing. During the early 1950s, the
+machine translation of natural languages was
+viewed as a promising area of research. This, of
+course, involved storing, processing, and print-
+ing documents, although as a necessary pre-
+liminary step rather than an end in itself. In
+1954, IBM demonstrated a working, if highly
+limited, system able to translate a small num-
+ber of technical phrases.28 Although further
+progress was disappointing, this was the first
+widely publicized application of the computer
+to natural-language text processing. Also dur-
+ing the 1950s, the widespread adoption of
+assemblers and, from 1957, of high-level lan-
+guages such as Fortran made the automatic
+parsing of computer languages a more success-
+ful kind of text processing.29
+One of the best-known early applications of
+text processing was the analysis of literary texts.
+From the 1950s on, computers were used to
+cross-reference the occurrences of phrases with-
+in texts and to develop numerical descriptions
+of the prose styles associated with particular
+authors, shedding new light on long-running
+disputes over biblical and Shakespearean texts.
+Specialized “string processing” programming
+languages, most notably Snobol variants,
+emerged to aid textual applications.30 Word
+processing capabilities such as search and
+replace, and even indexing, were just special-
+ized applications of these techniques.
+Computerized word processing systems
+made it possible to store entire documents on
+disk and retrieve them as needed. Again, this
+capability was not novel, but had previously
+been too expensive to apply to office corre-
+spondence. Information retrieval grew as a
+research area alongside the computer’s spread
+during the 1950s and 1960s. While the term
+was also applied to systems based on punched
+cards, microfilm, and other technologies, by
+the late 1960s a number of online computer
+systems were being created to manage large
+volumes of text for corporations or govern-
+ment agencies with significant money to
+spend. These systems, used interactively
+through teletype terminals, were usually
+restricted to the retrieval of abstracts or cita-
+tions based on user-provided keywords. Among
+the best known were the Dialog system (created
+for NASA by Lockheed) and the Orbit system
+produced by the System Development
+Corporation (SDC).
+Time-sharing services made it possible to sell
+remote access to text retrieval systems. The
+Lexis database, launched commercially in
+1973, offered full-text retrieval from a collec-
+tion of more than two billion characters of
+legal and tax rulings. This service targeted two
+of the few groups able to support the huge costs
+involved: lawyers and tax professionals. A min-
+imum subscription of $2,500 a month in 1974
+helped make Lexis the first major commercial
+success in online text storage and retrieval.31
+Enter the text editor
+The direct technological ancestor of the
+word processing program was the text editor.
+In contrast to high-margin applications like
+Lexis, simply storing and editing ordinary doc-
+uments such as letters and manuals showed lit-
+tle commercial value as an application for
+expensive computer time. Nevertheless, text
+editing applications seemed to surface with
+some rapidity whenever creative programmers
+were given unrestricted interactive access to a
+computer. The reason for this is straightfor-
+ward: programmers write programs, program
+source files are text, and—given the chance—
+most programmers would rather use a terminal
+to enter the code directly into the system rather
+than wait for it to be punched onto a paper
+card for batch input. Eventually, interactive-
+computing costs dropped sufficiently to make
+interactive editing of the kind pioneered by
+programmers feasible for office work.
+October–December 2006
+The core functions of a text editor are iden-
+tical to those of a word processor: text must be
+entered, manipulated, saved, and processed.
+Text editors are not simply precursors to word
+processors but an earlier and continuing appli-
+cation of the same technologies for a different
+purpose. By the early 1970s, the most advanced
+text editors offered interactive full-screen video
+editing of text, search and replace, edit files too
+large to fit in the computer’s available core
+memory, and most of the other key features of
+later word processing software.
+The main difference between the two in
+terms of core functionality is that word proces-
+sors usually add greater control over the for-
+matting of printed output because their output
+is intended for humans rather than computers.
+But the key distinction is more cultural than
+technical: text editors are used by programmers
+to write programs and edit system files; word
+processors are used by everyone else to do
+everything else.
+Among the first programmers free to experi-
+ment with online text editing were the young
+computer enthusiasts of Massachusetts Institute
+of Technology, memorably chronicled by Steven
+Levy in Hackers.32 In the early 1960s, they found
+themselves in the almost unique position of
+having direct use of a reasonably powerful com-
+puter, the first production model of the DEC
+(Digital Equipment Corporation) PDP-1, with-
+out having to worry about paying for or justify-
+ing their time on it. Among the many novel or
+quirky programs they created was Expensive
+Typewriter, written by Steve Piner. It made seem-
+ingly profligate use of the computer to achieve
+basic text-editing capabilities and ease prepara-
+tion of programs stored on paper tape.33 MIT
+computer scientist John McCarthy wrote anoth-
+er editor, Colossal Typewriter, for the same
+machine. Another program, TJ-2, could format
+a text file to fit a page with margins and justifi-
+cation, sending output either to a tape or direct-
+ly to a teletype. Although it did not allow
+onscreen text editing, it did use the PDP-1’s vec-
+tor screen to display candidate words for auto-
+matic hyphenation, which the user could
+manipulate with a light pen.34
+Few computer users of the 1960s could hope
+to tie up a whole computer while they edited a
+program. However, time-sharing operating sys-
+tems lowered the cost of interactive computing
+and thus spread online text editing somewhat
+more widely. These allowed several users to
+simultaneously access a single computer, each
+using a teletype unit to control the computer
+and run programs. Time-sharing systems
+became increasingly popular in computing
+research centers during the mid-1960s. Most
+systems let programmers enter and edit source
+code using a teletype unit. This code was saved,
+at least temporarily, on a disk or drum for input
+directly into a compiler or assembler. This
+meant that any useful time-sharing system
+required a text editor, and each major time-
+sharing research group appears to have pro-
+duced more than one.
+A memo MIT’s John McCarthy had written in
+1959, proposing the construction of the first
+time-sharing system, identified compelling
+advantages of the new approach: interactive
+debugging and the abilities to “write the pro-
+gram in source language directly into the com-
+puter” and to “check out a program directly after
+writing it.”35 In 1962, the first published paper to
+describe a working time-sharing system includ-
+ed discussion of its text editing abilities.36 The
+finished version of this system, the Compatible
+Timesharing System for the IBM 7094, included
+both Typset, an editor, and Runoff, a program to
+output and justify text files. At SDC in Santa
+Monica, California, another center of time-shar-
+ing innovation during the early 1960s, pro-
+grammers created an editor called Edtext.
+Online text editing spread beyond the labo-
+ratory, along with time-sharing. QED, among
+the most influential of the early text editors,
+was developed during the mid-1960s by Butler
+Lampson and Peter Deutsch for the SDS 940
+computer at the University of California,
+Berkeley.37 Like other editors of the period, it
+was designed for use with teletype systems rather
+than video displays, meaning that each line in
+the document was numbered, and users typed
+commands to print, delete, move, or edit parts
+of the document. To edit a file, the user would
+select a particular line and then specify the
+required changes. QED boasted some impressive
+features including search and replace, multiple
+buffers between which text could be copied (giv-
+ing capabilities similar to those we think of today
+as cut and paste), and the ability to label blocks
+of text for easy reference. QED spread widely, in
+part because Berkeley’s system provided the fun-
+damental technology for two of the earliest com-
+mercial timesharing services, Comshare and
+Tymshare. Tymshare, for example, used an
+improved version of QED called Editor.
+When we think of a word processor now, we
+tend to assume that it includes a video screen
+showing many lines of text, around which the
+user can move a cursor to insert or edit materi-
+al. Like interactive text editing in general, inter-
+active text editing on video screens was applied
+to the editing of computer source code some
+years before it was widely used for office work.
+IEEE Annals of the History of Computing
+Remembering the Office of the Future
+Page 10
+With the spread of more powerful video screen
+terminals during the 1970s, editors acquired
+full screen or screen oriented capabilities. This
+meant that users could move the cursor to any
+line on the screen and edit, insert, or replace
+the text already there.
+The editors discussed earlier were all line edi-
+tors, designed to work with teletype systems.
+These could be used with any kind of terminal,
+and so remained a standard part of every oper-
+ating system.38
+The most celebrated video screen text editor
+of all, Emacs, originated at MIT as an extension
+of the institute’s earlier TECO (Tape Editor and
+COrrector) editor, first developed circa 1963 for
+the PDP-1 by Daniel L. Murphy as a replace-
+ment for Piner’s Expensive Typewriter. Using
+TECO to edit involved writing short programs
+in an exceptionally terse programming lan-
+guage to perform operations such as search and
+replace. This appealed to programmers, the pri-
+mary users of text editors. Many versions were
+produced, and TECO evolved more as a pro-
+gramming platform and language for the cre-
+ation of editors rather than as an editor.
+Emacs, which stood for editing macros,
+began as a standardized collection of TECO
+macros for full-screen editing created in the
+mid-1970s by Richard Stallman of MIT’s artifi-
+cial intelligence lab.39 Though Emacs evolved
+into a freestanding editor, this heritage meant
+that it included its own programming language
+(a version of Lisp) and users could extend or
+customize it. Over time, Emacs acquired a wide
+range of extensions to do, for example, syntax
+checking and automatic code indenting, and
+more unusual things such as playing games
+and browsing Internet newsgroups.
+Text formatting system
+Meanwhile, computer systems were also
+making strides in the output of formatted text.
+Around 1967, Ken Thompson and Dennis
+Ritchie at Bell Labs produced new implementa-
+tions of QED, including the specification of
+elaborate rules for search-and-replace opera-
+tions.40 A few years later, the same team created
+the Unix operating system on a small, almost
+obsolete PDP-7 system. Unix developed a sys-
+tem tool philosophy in which powerful but spe-
+cialized software tools could be interconnected
+by linking their input and output text streams
+together via an innovation known as a pipe.
+The operating system kernel did little, but it was
+accompanied by powerful and portable tools.
+Unix tools, most notably roff and its successors
+nroff and troff, took textual input and format-
+ted it for printed output. In fact, the first useful
+application of Unix was the formatting of
+patent documents. Unix tools were used in Bell
+Labs to produce large technical manuals direct-
+ly on phototypesetting hardware, and soon
+found a broader audience. A 1981 survey called
+the troff/nroff combination “probably the most
+widely used text formatters in the world.”41
+Text formatting systems based on embedded
+control codes were widely used in the publish-
+ing industry, continuing practices established
+with earlier typesetting hardware. Tools like
+this provided similar output to later word pro-
+cessing software, but followed the earlier pat-
+tern in which separate application programs
+handled the text editing and the formatted
+document output. The ultimate expression of
+this stream of development is Donald Knuth’s
+TeX document description language, created
+during the 1970s and 1980s.42 TeX proliferated
+among computer scientists and mathemati-
+cians, who continue to love its programmabil-
+ity, its elegant and precise control over the
+formatting of output, and its masterful han-
+dling of equations. Most administrative users,
+however, showed little interest in a system that
+essentially required them to write their docu-
+ment as a kind of computer program and then
+compile it to view the output.
+The users and creators of systems such as
+Unix, Emacs, and TeX systems differed notably
+from those of word processing systems, and
+viewed their tasks differently. Their creators
+often viewed textual manipulation (including
+editing and formatting) as a problem to be
+solved through the creation of flexible and pro-
+grammable system building tools. Some aspects
+of their work, particularly advanced search-
+and-replace capabilities, eventually made their
+way into word processing, but despite techni-
+cal similarities to word processing systems,
+these text editing tools were never designed for
+the general-office population.
+Computerized word processing
+Having surveyed the origins of computer-
+ized word processing technologies, let’s return
+to the office of the 1970s to see how and why
+they were first applied to office work to create
+what we would now think of as the word
+processor. Text editing software reached the
+office through several distinct waves of com-
+puter technology: commercial time-sharing
+systems from the late 1960s onward, minicom-
+puters from the early 1970s onward, and spe-
+cialized word processing computer systems
+from the mid-1970s onward. Of these, the spe-
+cialized computer systems were by far the most
+important in establishing a market for com-
+October–December 2006
+Page 11
+puterized text editing. Over the 1970s, word
+processing centers increasingly adopted com-
+puterized word processing systems produced by
+firms such as IBM, Wang Laboratories, and
+Vydec to replace automatic typewriters like
+IBM’s MT/ST. In this way, the original concept
+of word processing as the centralization of typ-
+ing and dictation work around new technolo-
+gies gradually merged with what we now
+consider word processing technologies.
+At end of the 1960s, commercial time-sharing
+services gave businesspeople outside corporate
+data processing departments their first real
+chance to work interactively with computers.
+In principle, this opened up online text editing
+tools to a broad audience, though the combi-
+nation of the high hourly rates charged by
+time-sharing services and the slow teletype
+machines used by most people to access them
+meant that this was not a particularly compelling
+application. This did not stop Administrative
+Management from promoting the idea in a 1970
+article (shortly before it discovered the concept
+of word processing), when it suggested that
+automated text processing [was] a recently devel-
+oped office application for time sharing. …
+Revisions and editing are quickly and easily
+accomplished without having to retype the
+entire document.43
+At least some people in the business tech-
+nology community believed that document
+editing was likely to become an important
+application of computer systems once inexpen-
+sive and convenient computer access was com-
+monplace. One firm, Browne Time Sharing Inc.,
+specialized in online text editing and process-
+ing services.44 Browne launched its service in
+1969, using an IBM 370 mainframe connected
+to dial-in telephone lines, and marketed to users
+needing to make frequent revisions to long doc-
+uments. Its main business was as a financial
+printer, and it provided its clients with high-
+quality printed copies of their remotely edited
+documents by overnight delivery.45
+The spread of affordable and increasingly
+powerful minicomputer systems during the late
+1960s and early 1970s broadened access to
+interactive systems. Beyond disseminating
+interactive text editing for programming pur-
+poses, this situation also made it practical to
+consider minicomputers’ application to docu-
+ment preparation, and appears to have hap-
+pened first in technologically oriented firms
+and among those using computers to drive
+high-quality output systems.
+Typesetting machines had been using paper
+tapes as input for decades. Some major publish-
+ers and newspapers had been using computers
+to prepare tapes for typesetting systems since
+the 1960s, and interest was growing in photo-
+typesetting systems in which lines of text were
+generated optically under computer control.46
+Advances in printing technology, combined
+with the relative affordability of minicomput-
+ers, made text editing and computer-controlled
+phototypesetting viable for a much broader
+range of publications.47
+But with different programming, a minicom-
+puter could work much like an automatic type-
+writer, such as IBM’s popular MT/ST. This opened
+a potentially huge market since, unlike larger
+computers, minicomputers could be sold direct-
+ly to small companies or to small departments
+within larger companies. Business Automation
+profiled a Boston law firm that replaced its three
+MT/ST-typewriter-based systems with a DEC PDP
+8/E minicomputer in 1970. Although Selectric
+typewriters were used for editing and input, out-
+put of large documents was much faster thanks
+to a high-speed printer. The new system had sev-
+eral advantages. Because it was interactive, it
+could warn when errors were made and prompt
+the user for input, making it much easier to learn
+than the MT/ST. And because it used disk rather
+than tape cartridges to store documents and
+standard paragraphs, a much larger library of
+standard paragraphs could be maintained and
+accessed with greater ease. The firm later added
+a second disk drive and a video terminal, allow-
+ing onscreen editing of documents. Of course,
+the minicomputer had the additional advan-
+tage that it could run software to perform other
+tasks such as accounting.48
+Law firms were the most enthusiastic
+adopters of such systems. Their work centered
+on the regular production of long, intricate
+technical documents incorporating standard
+elements. This had to be done quickly and
+accurately. The expensive and novel technolo-
+gy of word processing could pay its way more
+easily here than in almost any other environ-
+ment. Lawyers charged high hourly rates, and
+legal secretaries and paralegals were much bet-
+ter paid than typical office staff. For such firms,
+word processing was what would later be called
+a killer application—a piece of software so com-
+pelling that it justified the purchase of a com-
+plete minicomputer system merely to run it. By
+1982, more than two-thirds of law firms had
+installed word processing systems.49
+Special-purpose word processing systems
+Minicomputer-based systems soon faced
+stiff competition from the new market for
+IEEE Annals of the History of Computing
+Remembering the Office of the Future
+Page 12
+video-based specialized word processing hard-
+ware.50 Lexitron, a start-up firm, offered the first
+stand-alone word processor with a video screen
+in 1972. The document being edited was held
+in memory and displayed on the screen, then
+saved to magnetic tape or printed at the end of
+the session.51 Linolex, a creator of video termi-
+nals and keyboards, added word processing
+capabilities to its terminal technology to create
+specialized systems. However, it was Vydec, a
+small start-up firm founded by a former
+Hewlett-Packard engineering team, that creat-
+ed the template for stand-alone, video-screen-
+based word processors. Its product, launched in
+1973, was the first to display a full page (up to
+66 lines) of text on the screen and included
+floppy disk drives and a daisywheel printer.
+Though expensive, at $18,000, the machines
+established the existence of a niche market in
+which Vydec initially faced little competition.52
+All of these machines sold slowly at first, as the
+start-ups focused their limited resources on
+organizations with heavy editing needs, such
+as federal government agencies. According to a
+March 1975 report, Vydec had installed almost
+300 video word processing systems, Lexitron
+1,000, and Linolex almost 700.53
+While the original Vydec system was some-
+thing of an engineering feat, the technologies
+needed to duplicate its capabilities became
+widely available over the next few years. By the
+mid-1970s, many firms had the expertise to
+design a word processor system by assembling
+a number of off-the-shelf components. Word
+processors were sold by many companies,
+including Redactron, Dictaphone, Lanier, CPT,
+NBI (Nothing But Initials), and Addressograph-
+Multigraph. The hardware, essentially the same
+used to produce a personal computer, was sim-
+ilar to that needed to create a video terminal,
+but it was bundled into a different product. The
+most obvious of the new components, the
+microprocessor, shrank the central processor
+unit of a simple computer to fit on a single chip.
+The original Vydec model did not use a
+microprocessor, but in 1975 another start-up,
+NBI, produced a microprocessor-based word
+processor and other manufacturers were quick
+to follow. Expensive hand-woven magnetic core
+memory, the standard memory technology of
+the 1950s and 1960s, was quickly replaced in
+smaller computers with DRAM (dynamic RAM)
+chips, first sold commercially by Intel in 1970.
+This dramatically lowered the cost of a memory
+unit able to store a few pages of text for editing.
+Another key technology was the floppy disk.
+Floppy disk drives were first sold in 1971 to
+store microcode for IBM mainframes. Within a
+few years, eight-inch floppy drives and disks
+were readily available from several manufac-
+turers. Their main application was as a versa-
+tile, inexpensive replacement for punched
+cards and paper tape, becoming the standard
+medium for information storage and exchange
+on less-powerful computer systems. The flop-
+pies had significant advantages for word pro-
+cessing over the IBM MT/ST and MT/SC
+magnetic tapes and cards. Likewise, the falling
+costs and rising capabilities of video displays
+meant that a screen able to display a full page
+of text was no longer prohibitively expensive.
+The word processing software was stored on
+disks, and would run automatically when the
+machine was turned on.
+Just as important, though less celebrated,
+was the daisywheel printer. Previously, com-
+puters had been coupled with adapted type-
+writer mechanisms such as the Flexowriter or
+IBM Selectric for slow, high-quality output and
+with large, expensive “line printers” to produce
+high-speed output on continuous paper.
+Daisywheel printers gave typewriter-quality
+output at several times the speed of a Selectric
+and with greater reliability under heavy loads.
+In 1972, Diablo (later acquired by Xerox)
+launched the first daisywheel printer. It faced
+stiff competition from Qume, a rival firm
+begun by the technology’s original inventor.54
+Word processing systems usually incorporated
+a printing mechanism built by one of those
+two firms.
+Word processing market matures
+The small, specialized firms that pioneered
+the market faced growing competition over the
+next few years, most notably from Wang
+Laboratories. Wang had been selling specialized
+electronic devices, such as desk calculators and
+control equipment, since the 1950s. Its 1971
+model 1200, like IBM’s MC/ST, was a typewriter
+controlled by magnetic tape. Although not par-
+ticularly ambitious technically—its control unit
+is said to have been adapted from that of a desk
+calculator—this earned Wang a foothold in the
+market.55 Wang had been selling computers
+October–December 2006
+By the mid-1970s, many
+firms had the expertise to
+design a word processor
+system.
+Page 13
+since the 1960s, and in the late 1970s its com-
+puter and word processing product lines began
+to converge. In 1975, Wang launched the
+Wang Computer System (WCS) range, consist-
+ing of three models: the 10, 20, and 30.55,56 The
+systems were integrated into custom-built
+desks, and were aimed at technical applications
+and small business administration.
+Wang took a similar approach to selling its
+Word Processor System, launched in 1976. The
+Wang Word Processor range likewise included
+three models coded 10, 20, and 30. The screens
+and cases of the workstations used on this
+range closely resembled those of the WCS
+machines, though internally they used Intel
+8080 microprocessors rather than the custom
+logic of Wang’s earlier computers.57 The model
+10 was a stand-alone model with a daisywheel
+printer and single floppy disk drive, used to
+load the bundled word processing software and
+to hold documents. The model 20 supported
+up to three workstations and their three print-
+ers, networked via a proprietary coaxial system
+to a single “storage station” with twin floppy
+drives. Editing of one document could contin-
+ue while another printed in the background.
+The model 30 built a hard disk drive into a cus-
+tomized desk and supported up to 14 worksta-
+tions and printers.58
+Although Wang’s stand-alone model 10 was
+competitive with existing products such as the
+Vydec systems, it was models 20 and 30 that
+made Wang synonymous with high-end word
+processing systems. These machines created a
+new class of “clustered” word processing sys-
+tems. It was many years before standard per-
+sonal computers could share files with
+comparable ease and effectiveness. From the
+user’s viewpoint, these systems provided capa-
+bilities similar to those based on multiple ter-
+minals connected to a minicomputer, referred
+to, in that era, as shared logic systems.
+Wang was renowned for the quality of its
+support and documentation, and like its earlier
+calculator systems, its word processing systems
+were designed to be used by small-business peo-
+ple rather than technical specialists. They were
+easy to set up, and relied on menus rather than
+the command languages common among other
+text editing and formatting systems of the era.
+Harold Koplow, leader of the design team,
+began by writing the user manual for the sys-
+tem with his colleague Dave Moros, refining it
+until it described a system he believed a secre-
+tary could use with minimal training.59 Only
+then did programming and design begin—
+although Koplow later claimed this strategy
+was not so much the result of a user-centered
+design philosophy as the unavoidable result of
+his having been deprived of resources after
+falling from favor with the firm’s autocratic
+founder.60 The Wang system of menus and
+prompts was indeed easy to learn, though some
+complained that expert users remained hob-
+bled by the designers’ assumption that secre-
+taries required a highly structured interface.
+Lanier Business Systems, which overtook
+IBM and Dictaphone in the market for dictat-
+ing systems during the mid-1970s, also estab-
+lished itself as the leading supplier of
+stand-alone video-based word processing sys-
+tems. Its “No Problem” word processor, intro-
+duced in 1977, was promoted as easy to use
+and, as the name suggests, with a certain folksi-
+ness.61 This must have worked, because by 1978
+it was outselling all its competitors with about
+one-fifth share of this fragmented market seg-
+ment.62 (Lanier later stumbled when it applied
+a similar approach to the computer market with
+its Computereze product line and by 1982 had
+lost its lead in stand-alone word processors).63
+In contrast, IBM was slow to compete effec-
+tively in the market for video-screen-based
+word processors, something contemporary
+observers tended to attribute to internal poli-
+tics, and in particular to a reluctance to under-
+mine its lucrative MT/ST automatic typewriter
+business. In 1976, IBM held an estimated 80
+percent of the word processing market, based
+almost entirely on the monthly leased pay-
+ments it received for around 150,000 magnet-
+ic-card- and –tape-based Selectric systems.64
+IBM gradually enhanced these machines,
+offering several new models based on mag-
+netic cards and revamping its product line to
+add small electronic memories able to store
+8,000 characters for instant retrieval.65 IBM
+also added communications functions to its
+machines, allowing them to transmit text to
+its computers. Its MT/ST machines were repo-
+sitioned as companions for newer models
+such as ill-fated System 6, launched in 1976,
+which offered an expensive high-speed inkjet
+printer, floppy disk storage, and communica-
+tion capabilities, but only an inadequate six-
+line video display.64
+IBM’s dominance eroded fast over the next
+few years, though by the end of 1979 it was still
+estimated to hold around 60 percent of the
+overall word processing market.66 Only in 1980
+did it finally offer a credible modern word
+processor with the Displaywriter word process-
+ing system, which used floppy disks to store
+documents and load programs and, as its name
+suggested, included a video screen for editing.67
+In response, Wang launched the relatively
+IEEE Annals of the History of Computing
+Remembering the Office of the Future
+Page 14
+affordable stand-alone Wangwriter, which sold
+to corporate customers for around $7,000.68
+Computerized word processing in practice
+Although the cost of word processing sys-
+tems fell somewhat by the end of the 1970s,
+the systems remained too expensive for most
+companies to use as general replacements for
+typewriters. Instead, they remained fixtures of
+centralized word processing centers. This push
+to centralize typing and dictation work did not
+work well for all companies, even when man-
+dated by senior managers. One consultant
+reported on an organization where “all of the
+typewriters were removed from the floors
+between a Friday and a Monday to make sure
+that everyone would have to use the new pro-
+cessing center.”69 The results were disappoint-
+ing for many companies, especially where the
+work involved was complex and nonroutine.
+By 1975, this insistence on the rigid central-
+ization of clerical work had already inspired
+something of a backlash. IBM’s competitors
+publicized its difficulties, and Business Week
+quoted a vice president of IBM’s office products
+group as admitting that the company had
+pushed the idea onto firms for which it might
+not be appropriate. IBM, he explained, now
+recognized the need to let some secretaries keep
+their typewriters and to allow specialist groups
+to establish their own word processing opera-
+tions.70 However, the high cost of dedicated
+word processing systems made it hard for
+organizations to justify the costs involved in
+equipping personal secretaries with them.
+Centralized word processing operations con-
+tinued to be the norm.
+As a result, typewriters proved quite resilient.
+By 1980, traditional automatic typewriters such
+as the MT/ST were no longer attractive alterna-
+tives to computer-based word processing sys-
+tems for customers able to spend $10,000 or
+more for each workstation. But the overall mar-
+ket for automatic typewriters continued to
+grow well into the 1980s. New firms such as
+Qyx and established typewriter companies like
+Olivetti and Smith-Corona competed in this
+market. The plummeting cost of microproces-
+sors and memory chips made it easy for design-
+ers to include features such as a built-in
+memory able to store the last few pages typed.
+Editing capabilities were shrunk into a chip
+inside the typewriter itself, rather than a bulky
+external controller. At the time, the market for
+these machines, often called electronic typewrit-
+ers, was perceived as the fastest growing and (in
+terms of unit sales) potentially the largest seg-
+ment of the overall word processing market.71
+By the mid-1980s, many typewriters included
+single-line displays for easy correction and fea-
+tures such as spell-checking and tape or disk
+storage. Despite the increasing affordability of
+personal computers, electronic typewriter sales
+continued to grow until at least 1988.72
+From word processing to office
+automation
+By the end of the 1970s, word processing was
+increasingly seen as merely part of a broader
+goal: office automation. The office automation
+concept had gained currency in 1975, when
+Infosystems published an article titled “Here
+Comes the Automated Office” and Business Week
+ran a feature on “The Office of the Future,”
+which proclaimed that “in almost a matter of
+months, office automation has emerged as a
+full-blown systems approach that will revolu-
+tionize how offices work,” at least according to
+“office equipment makers and the research com-
+munity.”73 Using slogans such as “the office of
+the future” and “the paperless office,” a host of
+computer companies from industry stalwart
+IBM to upstarts like DEC and specialists like
+Wang served up virtually identical visions of a
+future in which clerical workers, professionals,
+and managers performed their daily work on
+networks of interconnected terminals. For com-
+puting suppliers, technology analysts, and data
+processing managers, office automation seemed
+a way to finally realize a goal that had been a
+cliché among computer enthusiasts for decades:
+a computer terminal on every executive’s desk.
+Indeed, office automation, rather than the
+personal computer, was the highest profile and
+most hyped development innovation of corpo-
+rate computing during the second half of the
+1970s and the first few years of the 1980s. Like
+the late 1950s and late 1990s, this was a period
+in which enormous publicity was given to the
+idea that computers were about to revolution-
+ize business operations. Newspapers and busi-
+ness magazines were awash with discussion of
+new, or newly popular, buzzwords such as the
+microelectronic revolution, the information
+society, the chief information officer, informa-
+tion technology, the postindustrial society, and
+knowledge workers. The wave of enthusiasm for
+office automation reflected this broader faith in
+the transformative power of the computer and
+its application to ever broader areas of society.
+Decades earlier, the office automation con-
+cept had enjoyed a brief vogue in business
+computing’s early days. From 1954 onward,
+computers were successfully applied to cleri-
+cal tasks in thousands of companies, though
+not always as economically or straightfor-
+October–December 2006
+Page 15
+wardly as expected. During this period, the
+term office automation enjoyed brief use, only
+to vanish again until the 1970s.74 This disap-
+pearance may have been triggered by the real-
+ization that computerization served not so
+much to automate the office as to physically
+and culturally remove various tasks from the
+office altogether.75 Data to be processed by the
+computer was written onto special forms, to
+be punched onto cards in a remote and inac-
+cessible data processing center. Voluminous
+piles of printout eventually made their way
+back to the office.
+Inside the typical office of 1970, little would
+have shocked a time traveler from a half-cen-
+tury earlier. Documents were still typed, carbon
+copies still made for reference, messages still
+transmitted on paper through internal or exter-
+nal mail systems, telephones still used for
+instant communication, and documents still
+filed in hanging folders placed in vertical filing
+cabinets. Changes had occurred, but these were
+not overly disruptive: mimeograph machines
+and photographic copying techniques were
+supplemented by Xerox copiers, electric type-
+writers became common, calculating machines
+were now electronic (if still bulky and expen-
+sive), and correction fluid made it somewhat
+easier to remedy typing mistakes.
+As originally conceived in the early 1970s,
+word processing was to continue this trend of
+work physically removed from the office, to be
+carried out in a remote center by specialists
+using expensive equipment. Just as data pro-
+cessing had removed activities such as cus-
+tomer billing, payroll calculation, and stock
+control from the office and transferred them to
+specialized equipment in a remote center, so
+word processing would remove typing and dic-
+tation from the office and handle them remote-
+ly with specialized equipment.
+The return of the phrase office automation
+coincided with the realization that new tech-
+nologies made it possible to automate ever
+more work but retain control over its execution
+in the office rather than shipping it out to a
+data processing center. This was not a result of
+the personal computer. The business comput-
+ing experts of the early 1970s were certainly
+aware of the power of the microprocessor, and
+its ability to make inexpensive interactive video
+terminals a reality. But throughout the 1970s,
+corporate computing staff paid much more
+attention to the potential of microelectronics
+in specialized office automation technology
+than to early personal computers, which
+seemed ludicrously clunky and underpowered
+for business use. In the corporate context, office
+automation was largely a return to an older
+dream of a computerized, “totally integrated
+management information system” in which
+new and more efficient administrative proce-
+dures were designed by experts as part of an
+integrated and optimized system covering the
+whole business.76 One expert made this explic-
+it, suggesting that “word processing has the
+potential of leading us to the management
+information system that EDP [the Electronic
+Data Processing industry] has talked about for
+10 years or more and never delivered on.”77
+This shift in the business computing litera-
+ture from word processing to office automation
+represented a change on several levels. On the
+technical level, it was a shift from independent
+word processing machines or small clustered
+systems toward networked systems offering
+shared file storage, electronic mail, and access
+to larger computer systems. In terms of organi-
+zational politics, it was a shift of authority away
+from the office manager (responsible for cleri-
+cal workers) and toward the data processing
+manager (responsible for computers). On the
+conceptual level, it represented a shift away
+from the idea that investments in technology
+should be justified by lowering clerical labor
+costs to an assumption that computers should
+be used directly by professionals and managers
+to make them more productive.
+Early research in office automation
+Academic and corporate researchers had
+been exploring the application of computers
+to managerial and professional work for some
+time. Doug Engelbart was perhaps the first per-
+son to publicly demonstrate the application of
+text editing technology to everyday manageri-
+al tasks. He sought a method of “augmenting
+human intelligence” through a partnership of
+human and machine, with the idea that the
+computer should be one’s constant partner
+through the workday. Engelbart, an idiosyn-
+IEEE Annals of the History of Computing
+Remembering the Office of the Future
+The shift in the business
+computing literature
+from word processing to
+office automation
+represented a change on
+several levels.
+Page 16
+cratic researcher at the Stanford Research
+Institute, is well known as the leader of the
+team that produced NLS (Online System), the
+first operating system to use windows or
+mice.78 In 1968, he famously used a Joint
+Computer Conference to demonstrate the vir-
+tuosity of NLS to a shocked community of
+computer science researchers. The demonstra-
+tion included several minutes’ presentation of
+the system’s ability to deal with a request from
+his wife to “do a little shopping on the way
+home” by creating and organizing a lengthy
+shopping list.79
+NLS included many text editing capabilities
+of later word processors, including word wrap,
+search and replace, and scrolling, and the use
+of a mouse to select text to be cut and pasted
+between documents. Indeed, Engelbart’s sys-
+tem was much more complex than most sub-
+sequent word processing systems, and was
+concerned with a document’s underlying struc-
+ture and with processes of group collaboration.
+NLS treated documents as a hierarchy of ele-
+ments, enabling the user to expand or hide parts
+of a document outline, automatically number
+items, send electronic messages to other users,
+create hypertext links between documents, work
+collaboratively on document editing, and
+include graphics in documents. However, its
+user interface was complex and cryptic, and the
+system was never commercialized. NLS offered
+enormous power to those willing to commit
+themselves to its mastery but could never be
+grasped by the more casual user, despite
+Engelbart’s conviction that it should become a
+universal companion to the human mind.
+It took the office products company Xerox
+to reinterpret Engelbart’s ideas in a fashion
+accessible to ordinary people. During the early
+and mid-1970s, Xerox researchers created the
+personal workstation concept, along with the
+graphical user interface (windows, icons, and
+pull-down menus), Ethernet, and laser printer.
+Many of its staff members were veterans of
+Engelbart’s research group, and the researchers
+followed a similar practice of creating fully
+developed systems for their own daily use. The
+story of how Xerox’s PARC pioneered many of
+the key hardware and software technologies of
+today’s computers is perhaps the most celebrat-
+ed tale in the history of the personal computer.
+Yet the connection between PARC’s accom-
+plishments and the mid-1970s enthusiasm for
+office automation is often overlooked. It’s true
+that PARC’s key researchers were computer sci-
+entists, rather than experts on office work. But
+Xerox’s interest in funding the lab stemmed
+from the general sense that computerization
+was about to reinvent the office, rather than a
+philanthropic desire to advance knowledge.
+The firm’s leaders saw the lab as an insur-
+ance policy to make sure that Xerox retained its
+position in the office of the future, even as
+printing technologies changed. In mid-1971,
+PARC’s staff created a detailed description of
+their ideas for the office technology of the
+1980s, which served both to win internal sup-
+port for their work and to guide their subse-
+quent efforts.80 By 1975, PARC’s achievements
+were already being reported at length in
+Business Week in a feature titled “The Paths to
+the Paperless Office,” further reinforcing the
+general faith in office automation as an
+inevitable trend.77
+The Bravo text editor was one of PARC’s
+most influential creations.81 Because the Alto
+computers designed at PARC had high-resolu-
+tion bitmapped displays and were networked
+to laser printers, users could create pages mix-
+ing graphics with proportionally spaced text in
+multiple fonts and sizes, display these pages
+onscreen for direct editing, and print them with
+unprecedented clarity. Previous text editors had
+been oriented toward the creation of computer
+text files. The formatting of printed output was
+accomplished by entering special codes and
+interpreted by a separate program. Bravo and its
+successors merged the functions of these pro-
+grams to create what was soon dubbed the
+WYSIWYG (What You See Is What You Get)
+approach to text editing. Its authors included
+Butler Lampson, one of the creators of the QED
+editor, and Charles Simonyi, who went on to
+lead the development of Microsoft Word.
+Simonyi himself has suggested that Microsoft
+Word was based in large part on Bravo and bor-
+rowed several of its novel features, including the
+use of style sheets to simplify the application
+and modification of formatting standards to dif-
+ferent parts of a document.
+Other PARC technologies let Alto users share
+files on network servers and transmit electron-
+ic mail messages using the Laurel email pro-
+gram. By 1977, when the first mass-produced
+personal computers such as the Apple II
+appeared, these technologies were largely
+mature and in daily use within Xerox PARC.
+Office automation industry
+Xerox had unveiled a plausible prototype
+for the automated office in its lab, but turning
+this into a successful product family was anoth-
+er story. By the early 1980s, the producers of
+minicomputers, word processing systems, and
+even microcomputers were targeting the same
+strategic goal: integrating word processing sys-
+October–December 2006
+Page 17
+IEEE Annals of the History of Computing
+Remembering the Office of the Future
+tems with networks and other kinds of data to
+knit them into more broadly based office
+automation systems. By the early 1980s, this
+idea was so widely accepted that one study
+evaluated whether word processing technolo-
+gy had reached its “system potential” by deter-
+mining whether it had “brought about any
+change in management jobs.” Unsurprisingly,
+only 3 out of 21 firms surveyed had “evolved
+along this critical dimension.”82
+Given the increasing competition and lower
+margins developing in the market for stand-
+alone word processing systems, this push for
+managerial use made some sense, though it was
+not in the end a particularly successful strategy.
+The shift from clerical workers to managers and
+professionals presumably reflected an assump-
+tion that businesses might be more willing to
+spend $15,000 or more per desk on a system to
+help a manager manage or a lawyer litigate than
+to spend the same amount on a system to make
+a typist more productive. The more expensive
+the employee, the more valuable a productivi-
+ty boost would be and so the easier to rational-
+ize the investment. But the strategy faced
+insurmountable technical and economic issues,
+most famously seen in Xerox’s efforts to sell
+products derived from its pioneering Alto. The
+Star workstation, introduced in 1981 for
+$16,595 per workstation (plus the cost of print-
+ers and servers) has gone down in computer
+lore as a remarkable piece of engineering, whose
+commercial prospects were crippled by its high
+price tag and by a notable sluggishness. The
+software designers’ ambition outstripped the
+hardware’s power to support it.83
+Xerox was by no means the only company
+committing huge resources to the putatively
+emerging market for integrated office automa-
+tion systems. IBM, Wang, DEC, and Xerox were
+all competing to set standards for the field.
+DEC was selling its All-In-1 integrated office
+system, including email and filing capabilities
+as well as word processing. IBM had announced
+a grand initiative called SNA to network togeth-
+er all its varieties of computer for the smooth
+exchange of documents and data between
+office computers and large mainframes. All the
+major players were exploring new technologies
+such as video scanners and hybrid documents
+containing text, charts, and graphics.84
+Wang’s successor to its bestselling Word
+Processing System, the Wang Office Information
+System (OIS), launched in 1979 and first shipped
+in 1980. The OIS was intended to broaden
+Wang’s success with word processing into other
+areas of business computing. Like its earlier
+“clustered” word processing systems, the OIS
+joined individual workstations, each with its
+own microprocessor and memory, to file servers
+holding hard disk drives.85
+Leadership in this field was seen by many as
+Wang’s to lose. By 1982, Wang Labs had cap-
+tured just over half the market for “clustered”
+word processing systems and faced little com-
+petition there. A new version of its Office
+Information System called Alliance claimed to
+offer “data processing, word processing, audio
+processing, image processing and networking,”
+though in practice it worked slowly and not all
+these features materialized.86 Meanwhile, its VS
+line of powerful 32-bit minicomputers was
+making a strong showing in the market for
+mid-size computer systems.87
+In 1984 it announced its Office integrated
+software suite to integrate word processing,
+telephony, and email. That year, as Wang’s
+stock reached its all-time high, a leading com-
+puter industry analyst praised the firm as the
+“Orient Express of Office Automation,”
+remarked on its high R&D spending and its
+technological creativity, and suggested that,
+“Wang has both management and marketing to
+go the distance.” He forecast that by 1990 Wang
+would be the third largest firm in the computer
+industry.88 By that year it was, in fact, the tenth
+biggest, but poised for bankruptcy rather than
+growth. Its founder, An Wang, had insisted on
+keeping family control of the business and
+failed to set up a suitable succession process.
+Wang Labs struggled, announcing ambitious
+projects that appeared years late or not at all,
+while its high-priced integrated systems came
+under increasing pressure from competitors.
+Office automation in use
+Users, as well as producers, were struggling
+to turn the promise of office automation into a
+productive reality. During the early 1970s, cor-
+porate computing managers (heads of data pro-
+cessing and management information systems
+departments) had viewed word processing as
+part of office work and therefore of little more
+concern to them than typewriters or dictating
+machines. But the idea that the future of busi-
+ness computing lay with elaborate, networked
+systems able to file, process, and transmit doc-
+uments of all kinds prompted corporate com-
+puting managers to assert control over word
+processing technology. According to one con-
+temporary, this issue was often “discussed in
+the abstract, or in the context of relatively
+empty arguments about whether WP [word
+processing] or DP managers would become the
+‘information managers’ of the future.”84 The
+prospect of office automation raised some fun-
+Page 18
+damental questions about the role of a central-
+ized computer department in an era of distrib-
+uted computer systems, topics which became
+still more important during the late 1980s as
+companies began to realize the same basic
+vision through client-server systems based on
+personal computer technology.
+One example of the changing relationship
+between office work and computing comes
+from Exxon, which by 1980 was making a
+major effort to establish itself as a supplier of
+electronic office equipment, with products mar-
+keted or under development in a dozen busi-
+ness units including Qyx for automatic
+typewriters and Vydec for high-end word
+processors.89 Perhaps inspired by the desire to
+provide a showplace for these technologies,
+Exxon had in 1976 formed a joint team
+between its computers and systems group and
+its administrative services group as the conver-
+gence of computer technology and office work
+became apparent, thus avoiding the turf dis-
+putes between the two that plagued many com-
+panies. By 1980, a permanent Office Systems
+Technology Division employed 23 people and
+had the construction of a single integrated sys-
+tem as its explicit goal. The leader of Exxon’s
+effort wrote of an automated system “having
+work stations in every manager’s, professional’s,
+and secretary’s office, tied together into a net-
+work via appropriate communications.”90
+But as a central, functional group, the Exxon
+team’s practical authority over the firm’s many
+offices was limited. This problem must have
+been compounded by its conviction that “the
+real target for office automation was the man-
+agerial and professional worker.”90,91 This jus-
+tified a focus on things like shared calendar
+systems and project control tools. Managers,
+however, were much better placed than typists
+to resist the efforts of office experts to reor-
+ganize their work habits. In practice, firms
+were more likely to force secretaries into
+word processing centers than impose collab-
+oration systems onto their senior managers.
+Professionals and managers exercised more
+autonomy, carried out less routine work, and
+were culturally and organizationally better
+equipped to resist encroachment on their pre-
+ferred ways of doing things.
+The “office of the future,” with its beige
+cubicles, bland furniture, and computer moni-
+tors and keyboards on every desk became a
+familiar setting in popular culture, appearing
+in 1980s films such as After Hours and Working
+Girl. It sometimes served as an emblem of the
+emptiness and impersonality of corporate cap-
+italism, most consistently on the pages of
+Processed World, a radical magazine published
+by politically minded and underemployed
+office workers of the San Francisco area. “Are
+you doing the processing? … or are you being
+processed?” asked the cover of the first issue,
+under a picture of someone whose head was
+replaced by a computer (see Figure 3 next page).
+The magazine was sometimes sold with the
+chant, “If you hate your job then you’ll love
+this magazine.”92 Academics and critics pro-
+duced a wealth of books on the consequences
+of white-collar automation, including Barbara
+Garson’s snappily titled The Electronic
+Sweatshop: How Computers are Transforming the
+Office of the Future into the Factory of the Past and
+Shoshana Zuboff’s weighty In the Age of the
+Smart Machine: The Future of Work and Power.93
+Rise of the personal computer
+The modern-day ubiquity of word processing
+and email is, of course, a consequence of per-
+sonal computer technology’s proliferation. But
+thus far the story of the conceptual, technical,
+commercial, and practical development of word
+processing has been told almost without refer-
+ence to the personal computer. This is because,
+at least until the mid-1980s, the personal com-
+puter industry made no real contribution to the
+development of word processing technology.
+Whereas new applications such as video games
+and spreadsheets maximized the strengths of
+personal computers while minimizing their
+weaknesses, the reverse was true of word process-
+ing. Until the mid-1980s, word processing was
+better tackled using other kinds of computers.
+In 1976, most people who were getting their
+hands on early personal computers such as the
+Apple I or an MITS Altair had to be prepared to
+solder their own circuit boards, build their own
+cases, or create their own interface boards. The
+same year saw the launch of the Wang Word
+Processor line with its polished documentation,
+easy-to-use menu systems, and file sharing capa-
+bilities. Early personal computer users also faced
+a dearth of high-quality applications software.
+The situation was slow to improve, even after
+new machines such as the Apple II and TRS-80
+were mass-produced from 1977 on. The first
+word processing programs for the Apple II, such
+as Electric Pencil and Apple Writer, were crude
+copies of those produced for minicomputers
+and dedicated word processing systems.94 The
+programs were often outpaced by touch typists,
+had badly designed user interfaces, and lacked
+even the most basic features. The user manual
+for Electric Pencil, for example, warned users
+that “Words or phrases may be underlined
+ONLY in lines shorter than 62 characters and
+October–December 2006
+Page 19
+terminated by a LINE FEED. Underlining is not
+permissible within justified text.”95
+The only real virtue of personal computers
+for word processing was their low cost: a mini-
+mal Apple II system plus software was much
+cheaper than, for example, a Wang. However,
+the minimal Apple II system was so badly suit-
+ed to word processing that only a dedicated
+hobbyist would be likely to bother. As one
+unusually frank enthusiast admitted, “An
+Apple II can be tortured into a decent word
+processor—at great expense.”96 Standard Apple
+II machines, even when equipped with an
+optional but common floppy disk drive, had
+only a 40-column display and lacked lowercase
+letters altogether. This made it necessary to
+scroll the screen to read an entire line of text,
+and forced programs to use colored or inverted
+text to represent lowercase letters.
+Further hardware expansions could remedy
+these problems but the new capabilities
+remained clumsy. For example, the only way to
+type a capital letter at the start of a sentence
+was to push the shift button twice, type the let-
+ter, then push the shift button twice more to
+reset to lowercase. Hobbyists on a budget
+would connect personal computers to televi-
+sions rather than dedicated monitors, but text
+was hard to read—a conspicuous problem for
+word processing. The other problem was the
+cost of a high-quality daisywheel printer suit-
+able for business correspondence, and the
+installation of a serial card to drive it. In the
+late 1970s, such printers cost $3,000 to $5,000,
+closing much of the cost gap between an Apple
+and a dedicated word processing unit.97
+Matters were better with early business-ori-
+ented personal computers based on the CP/M
+operating system, such as those produced by
+IMSAI and Cromemco. These machines con-
+nected to separate terminals and so could be
+plugged into just the same expensive high-
+quality text displays and keyboards as mini-
+computers. Cromemco had a reputation for
+producing some of the most solid and busi-
+nesslike CP/M hardware. But its software lagged
+far behind. One reviewer noted that users were
+liable to lose a lot of text when using its
+Writemaster program, because the command to
+delete everything from cursor to the start of the
+IEEE Annals of the History of Computing
+Remembering the Office of the Future
+Figure 3. The radical San Francisco magazine Processed World illustrates the resentments felt by some
+office workers during the 1980s toward the use of office automation technology. (Reproduced with
+permission of Chris Carlsson; http://www.processedworld.com.) The issue 1 cover (April 1981, on the
+left) is “Are you doing the processing?” by Linda Wiens. The issue 12 cover (November 1984, on the
+right) is “Non-User-Friendly” by Hal Robins.
+Page 20
+file was only one key away from that used to
+remove underlining and operated without any
+further confirmation from the user.98
+MicroPro’s WordStar, launched in 1978,
+established itself as the leading word processor
+software for CP/M machines. Although it was
+considerably better than Electric Pencil, it suf-
+fered from a badly designed user interface, and
+the nonstandard nature of CP/M systems
+required users to spend considerable effort con-
+figuring it to work with their own computer,
+terminal, and printer. This also limited its capa-
+bilities to those supported on lowest-common-
+denominator systems—for example, WordStar
+used the combination of the control key and
+S,E,D and X to move the cursor around the
+screen because many systems lacked dedicated
+cursor keys.
+Well into the 1980s, corporate users contin-
+ued to prefer dedicated word processing systems
+to personal computers. WordStar picked up fea-
+tures over the years, but these only added to its
+awkwardness. One 1983 review of WordStar 3.0
+described it as “thousands of Rube Goldberg
+straps and ropes holding things together with-
+out any overall unifying concept (or even a
+dozen).”99 The situation was still worse with
+software written for cheaper home computers
+such as the Commodore 64. As late as 1984, an
+introductory guide could report that “most
+word processing programs for home computers
+are written by high-tech freaks who’ve never
+learned to type properly.”100
+An exhaustive comparison between the fea-
+tures and documentation of 14 microcomput-
+er programs and dedicated systems as of late
+1981 found that “dedicated word processors
+and microcomputer word-processing programs
+are comparable in their abilities.”101 Three of
+the top four systems reviewed were dedicated
+systems, and the author noted that these were
+much better documented and supported than
+the software packages. However, the cost of the
+dedicated full-screen units ranged from
+$16,000 to $6,000, making them more expen-
+sive than comparable microcomputer systems.
+The IBM personal computer, launched in
+1981, quickly displaced CP/M machines as the
+standard for business use. Its capabilities were
+only modestly greater than those of its CP/M-
+based competitors, but because IBM standard-
+ized screen, keyboard, and disk options,
+software writers could exploit its features with-
+out making users go through complex config-
+uration procedures. For the next few years, the
+IBM PC version of WordStar, a faithful duplica-
+tion of the CP/M original, remained the lead-
+ing word processor.
+By the mid-1980s, the combination of more
+flexibility and lower costs made many compa-
+nies favor a switch toward personal computer
+word processing systems over dedicated
+machines. Word processor software for person-
+al computers gradually got better, though this
+was largely a matter of more effectively dupli-
+cating the user interfaces and capabilities
+already available on dedicated word processing
+machines and minicomputer systems. IBM
+offered DisplayWrite, which mimicked the
+interface of its Displaywriter system. MultiMate,
+which enjoyed considerable success in the cor-
+porate market, was popular largely because its
+user interface closely resembled that of the
+Wang machines. Meanwhile WordPerfect,
+which in the late 1980s overtook WordStar as
+the leading personal computer word processing
+software, was originally created for Data
+General minicomputers in 1980.102
+Although personal computers were by this
+point doing a creditable job of duplicating ded-
+icated systems, they remained isolated
+machines. Personal computer networking was
+primitive, and the adoption of email, file shar-
+ing, and printer sharing lagged behind predic-
+tions. During the early 1980s, the shift to
+personal computers—rather than to the kinds
+of integrated office automation networks being
+promoted by firms like Wang, Xerox, and
+DEC—essentially froze the dominant paradigm
+for automatic office technology in the mold of
+the stand-alone video screen models first intro-
+duced in 1973: a self-contained machine with
+a keyboard, screen, disk drive, and printer.
+The idea of networked machines, graphical-
+ly sophisticated machines hooked into data-
+bases and sharing electronic mail, only became
+commonplace during the 1990s. Falling costs,
+technological improvements, and new software
+such as Lotus Notes made it possible to add
+these capabilities piecemeal to ordinary per-
+sonal computers without raising their costs to
+an unacceptable level. As everyone with an
+interest in the history of personal computing is
+surely aware, the work of Xerox PARC signifi-
+cantly influenced the eventual development of
+hardware and software, with personal comput-
+ers slowly evolving into something much like
+the office automation workstations envisioned
+at PARC.
+Conclusions
+The story of word processing and the origins
+of office automation demonstrates the com-
+plexity of the history of computer applications.
+The fundamental hardware and software tech-
+nologies needed for word processing were cre-
+October–December 2006
+Page 21
+ated for other purposes and in other social con-
+texts, before being assembled during the early
+1970s as the falling costs of interactive com-
+puting opened new potential applications.
+Even computerized text editing and formatting
+was well established years before the first com-
+puterized word processor was marketed. The
+concept of word processing, however, was orig-
+inally tied to automatic typewriters and cen-
+tralized dictating machines and was entwined
+with a vision of routine, factory-like typing
+pools. By the mid-1970s, the technologies of
+computerized text processing and formatting
+had come together with the word processing
+concept to provide the basis for a new breed of
+word processing workstations. Yet a decade
+later these dedicated machines were already
+being replaced by general-purpose computers,
+as people came to think of a word processor as
+a piece of software for a personal computer
+rather than a specialized office appliance.
+Like other visions of starkly modern techno-
+logical futures, the “office of the future” pro-
+moted during the late 1970s has been realized in
+a slower, messier, and less complete manner than
+once expected. Rather than a sudden shift to the
+paperless automated office of the future, the
+result was a hybrid of old and new technologies
+in which documents were prepared using per-
+sonal computers but usually disseminated on
+paper. Electronic document transmission was
+particularly slow to take hold. During the 1990s,
+it was common for documents to be prepared on
+a computer, then printed for fax transmittal to a
+recipient (a process of redigitization and reprint-
+ing) and optically scanned at the far end into
+another computer. As the new ease of printing
+sent office paper use to record levels, a joke arose
+that the paperless office would arrive at around
+the same time as the paperless toilet.
+The consequences of word processing and
+office automation for the organization of office
+labor have been the opposite of those original-
+ly predicted. In the early 1970s, word process-
+ing was a new approach to the division of labor
+in which typing and stenography tasks were to
+be removed from secretaries and carried out on
+an efficient, industrial basis in a word process-
+ing center. This approach was justified by the
+high cost of specialist machinery as well as the
+efficiency inherent through work specialization
+and standardization.
+Computers and networks have altered the
+organization of white-collar work in many
+ways over the past three decades. Much work
+really has been centralized in factory-like set-
+tings: for example, with the creation of cen-
+tralized and regimented call centers to deal
+with customer support, the international out-
+sourcing of clerical tasks, and the automation
+of decision making for things like loan
+approval. Yet this has not happened with typ-
+ing and editing work, the original task of word
+processing centers and the core activity of the
+automated office.
+As inexpensive word processing systems and
+programs spread through offices during the
+1980s, a different dynamic took hold. Typing
+and editing work returned to the office, carried
+out by word processors on the desks of secre-
+taries and, increasingly, of professional and
+managerial staff. Today, general typing and
+editing work is more distributed than ever, as
+the number of personal secretaries has plum-
+meted, and more executives and professionals
+type their own correspondence and reports.
+The shift to email, instant messaging, and
+other forms of electronic communication has
+reinforced this trend, dispelling the formerly
+widespread assumption that typing is low-status
+work suitable only for women.
+Specialized data entry and typing jobs are
+actually dwindling, with the US Department of
+Labor’s Bureau of Labor Statistics projecting a
+continued decline in the number of specialized
+data entry and word processing jobs as data is
+increasingly transmitted electronically, entered
+by customers, or captured automatically.103
+Word processing has indeed changed the
+world, although not quite as expected.
+Acknowledgments
+I thank the anonymous reviewers for their
+comments, Dietmar Wolfram, Maria Haigh and
+Kate Johnson for their careful reading of draft
+versions, Ulrich Steinhilper for answering my
+questions and send me a copy of his book, and
+Jim Battle for providing insight on the rela-
+tionship between Wang’s 2200 computer fami-
+ly and its word processing models.
+References and notes
+1. According to material gathered by historian Martin
+Campbell-Kelly, by fall 1983, WordStar had sold
+650,000 copies with a retail value of $325,000,000
+while VisiCalc and Lotus 1-2-3, the two leading
+spreadsheets of this era, had 800,000 copies with a
+IEEE Annals of the History of Computing
+Remembering the Office of the Future
+Word processing has indeed
+changed the world, although
+not quite as expected.
+Page 22
+retail value of $225,000,000. M. Campbell-Kelly,
+From Airline Reservations to Sonic the Hedgehog: A
+History of the Software Industry, MIT Press, 2003, p.
+215. By 1996, word processors were outselling
+spreadsheets measured by volume as well as by
+value. M. Campbell-Kelly, From Airline Reservations
+to Sonic the Hedgehog, p. 270.
+2. The parallel with data processing is explicitly
+made in W.A. Kleinschrod, “The ‘Gal Friday’ is a
+Typing Specialist Now,” Administrative Manage-
+ment, vol. 32, no. 6, 1971, pp. 20-27. The
+origins, usage, and spread of data processing are
+discussed in T. Haigh, “The Chromium-Plated
+Tabulator: Institutionalizing an Electronic Revolu-
+tion, 1954−1958,” IEEE Annals of the History of
+Computing, vol. 23, no. 4, 2001, pp. 75-104.
+3. U. Steinhilper, Don’t Talk—Do It: From Flying to
+Word Processing, Independent Books, 2006. The
+quotation is from page 91. He wanted the
+diagram (p. 166) to be included on all the IBM
+folders used to hold sales proposals. Steinhilper
+wrote that he pushed the idea in various ways
+within IBM Germany and during a spell at IBM
+World Trade’s European headquarters. He
+promoted it at a 1959 meeting of the IBM Hun-
+dred Percent club in Madrid (pp. 102-109).
+Exactly what word processing meant at that time
+is not clear—Steinhilper has written that the
+arrival of dictating equipment in the IBM product
+line in 1962 led him to redefine it as the process
+of “making a thought audible, visible and distrib-
+utable.” By the time the MT/ST arrived in 1964,
+he was Country Manager for Electric Typewriters,
+and promoted the Word Processing concept
+along with the machines (pp. 134-146). He
+began to promote the idea that customer firms
+should create a“Manager of Business Operations
+(Text)” of equal status to their existing data pro-
+cessing manager (p. 124). Secondary sources
+have often claimed that the English “word pro-
+cessing” originated as a translation of the well-
+established German textverabeitung. In fact, the
+English version was the first to be coined, though
+the German version was the first to achieve any
+currency. I have yet to find evidence that IBM
+used the term in the US prior to 1971 in advertis-
+ing its office products. Neither does the term
+appear to have been used much outside the firm
+prior to 1970. From his book it is clear that Stein-
+hilper feels disappointed in IBM’s failure to fully
+embrace the idea of word processing, and that it
+“never dared” (p. 142) to rename its Office Prod-
+ucts Division.
+4. The first mention of word processing in Adminis-
+trative Management appears to have been in
+“Auburn U Learns about Word Processing,”
+Administrative Management, vol. 31, no. 6, 1970,
+p. 81. The longer feature on new developments
+in automatic typing—which included the quota-
+tion given, a two-page report on a meeting of
+the Word Processing Association of Arkansas, and
+an advertisement for a new automatic typewriter
+called the ITEL Word Processor—was J.G. Zalkind,
+“Automatic Typing Keys in New Advances,”
+Administrative Management, vol. 31, no. 11, 1970,
+pp. 36-44. The prevalance of early adopters of the
+term in the southern US may imply that the
+regional IBM Office Products team led the way in
+promoting it.
+5. W.A. Kleinshrod, Word Processing: An AMA Man-
+agement Briefing, AMACOM, 1974.
+6. Modern Office Procedures, a rival publication to
+Administrative Management, offered its first
+discussion of word processing a few months later
+in “A New Age of Automated Writing,” Modern
+Office Procedures, vol. 16, no. 8, 1971, pp. 14-15.
+7. Inventor of the Week Archive: Carl G. Sontheimer—
+The Cuisinart Food Processor, Massachusetts Insti-
+tute of Technology, 1998; http://web.mit.edu/
+invent/iow/sontheimer.html.
+8. W.A. Kleinshrod, Word Processing, p. 3.
+9. “The Office of the Future,” Business Week, 30
+June 1975, p. 48.
+10. “Management and the Information Revolution,”
+Administrative Management, vol. 31, no. 1, 1970,
+11. International Business Machines, Office Products
+Division, “Are You Unconsciously Telling Your
+Boss You Can’t Handle a Bigger Job?” Administra-
+tive Management, vol. 32, no. 6, 1971, pp. 30-
+31. Braverman discussed early word processing
+and its relationship to scientific management on
+pp. 344-348.
+12. International Business Machines, IBM Office Prod-
+ucts Division Highlights, 1976; http://www-03.ibm.
+com/ibm/history/exhibits/modelb/modelb_office.
+13. W.H. Liebman, “Super-Typewriters: The Word-
+Processing Industry Has Arrived,” Barron’s Nation-
+al Business and Financial Weekly, 31 March 1975.
+14. For example, K.F. Curley, Word Processing: First
+Step to the Office of the Future, Praeger, 1983, pp.
+45-49, defines no fewer than seven word process-
+ing product groups, three of which lacked video
+displays entirely or could display only a single line
+of text.
+15. Early Office Museum, Antique Special Purpose Office
+Typewriters, 2005; http://www.officemuseum.
+com/typewriters_office_special.htm.
+16. R.R. Kay, “What We Found Out About Automatic
+Typing,” Administrative Management, vol. 30, no.
+11, 1969, pp. 32-34.
+17. The automatic typing systems of the early 1970s
+are discussed in J.R. Cochran, “Automatic Typing
+and Text Editing Devices,” Administrative
+Management, vol. 32, no. 6, 1971, pp. 44-50,
+October–December 2006
+Page 23
+and “A New Age of Automated Writing,” Modern
+Office Procedures, vol. 16, no. 8, 1971, pp. 14-15.
+18. “Word Processing—Hardware/Software,”
+Business Automation, vol. 19, no. 9, 1972, pp. 44-
+46, 48.
+19. W.D. Smith, “Lag Persists for Business Equipment,”
+New York Times, 26 Oct. 1971, pp. 59-60.
+20. R. Natale, “‘Selectrifying’ the Typing Pool,”
+Chicago Tribune, 31 Oct. 1971, p. E18.
+21. Leffingwell and the scientific office management
+movement, and its relationship to office technol-
+ogy, have been discussed in S. Strom, Beyond the
+Typewriter: Gender, Class and the Origins of Mod-
+ern American Office Work, 1900−1930, Univ. Illi-
+nois Press, 1992; M.W. Davies, Woman’s Place is
+at the Typewriter: Office Work and Office Workers,
+1870−1930, Temple Univ. Press, 1982; and H.
+Braverman, Labor and Monopoly Capital: The
+Degradation of Work in the Twentieth Century;
+Monthly Review Press, 1974.
+22. F.W. Taylor, The Principles of Scientific
+Management, Harper & Brothers, 1911.
+23. W.H. Leffingwell, ed., The Office Appliance
+Manual, Nat’l Assoc. Office Appliance Manufac-
+turers, 1926.
+24. D.W., “Reader Feedback: Is Boredom Necessary?”
+Business Automation, vol. 19, no. 11, 1972, p. 8.
+25. Reports in the general press began to challenge
+the connection between women’s liberation and
+typing pools: for example, G. Dullea, “Is It a Boon
+for Secretaries—Or Just an Automated Ghetto?”
+New York Times, 5 Feb. 1974.
+26. Many paper tape systems, including teletype
+tape, actually had only five channels. However,
+coding schemes incorporate two “cases,” origi-
+nally special characters used to shift between let-
+ters mode and numbers mode, which effectively
+gave a total of 6 bits for each character. T.
+Jennings, ACSII: American Standard Code for Infor-
+mation Infiltration, 2004; http://www.wps.com/
+projects/codes/index.html.
+27. ASCII is a 7-bit standard, though modern imple-
+mentations are invariably 8-bit and fill the
+remaining positions with additional characters,
+including those required for other European lan-
+guages. Lowercase letters were not officially
+defined in the initial 1963 version of the
+standard, but were added in 1967.
+28. W.J. Hutchins, Machine Translation: Past, Present,
+Future, Halsted Press, 1986, section 4.3.
+29. However, the source code to be processed was
+almost always punched onto cards rather than
+entered directly into the computer system. Code
+libraries were generally maintained in card files
+rather than computer files until the 1970s. The
+development of code library management pack-
+ages is discussed in J.A. Piscopo, interview by T.
+Haigh, 3 May 2002, OH 342, Charles Babbage
+Inst., Univ. of Minnesota, Minneapolis; and M.
+Goetz, “Memoirs of a Software Pioneer: Part 1,”
+IEEE Annals of the History of Computing, vol. 24,
+no. 1, 2002, pp. 43-56.
+30. R.E. Griswold, “A History of the SNOBOL Program-
+ming Languages,” History of Programming
+Languages, R.L. Wexelblat, ed., Academic Press,
+1981, pp. 601-644.
+31. C.P. Bourne and T.B. Hahn, A History of Online
+Information Services: 1963−1976, MIT Press,
+32. S. Levy, Hackers: The Heroes of the Digital Revolu-
+tion, Anchor Press/Doubleday, 1984.
+33. J.M. Graetz, “The Origins of Spacewar,” Creative
+Computing, Aug. 1981.
+34. D.P.B. Smith, Type Justifying Program, 9 May
+1963; http://www.dpbsmith.com/tj2.html. The
+online version includes annotation by D.P.B.
+Smith and a scan of the original memo describ-
+ing the system.
+35. J. McCarthy, “John McCarthy’s 1959 Memoran-
+dum,” IEEE Annals of the History of Computing,
+vol. 14, no. 1, 1992, pp. 19-23.
+36. F. Corbato, M. Merwin-Daggett, and R.C. Caley,
+“An Experimental Time-Sharing System,” Proc.
+Spring Joint Computer Conf., vol. 21, AFIPS Press,
+1962, pp. 335-344.
+37. L.P. Deutsch and B.W. Lampson, “An Online Edi-
+tor,” Comm. ACM, vol. 10, no. 12, 1967, pp. 793-
+799. A broad overview of the capabilities of the
+leading editors of this era is given in A. van Dam
+and D.E. Rice, “On-line Text Editing: A Survey,”
+Computing Surveys, vol. 3, no. 3, 1971, pp. 93-114.
+38. The widely used vi full-screen editor for Unix sys-
+tems, produced by Bill Joy in 1976, included an
+alternative line editor interface, ex, having the
+same basic functionality. But from the mid-1970s
+on, full-screen editors were increasingly common
+on higher-end systems.To this day, Microsoft
+Windows includes the much despised EDLIN line
+editor, which was the only editor supplied with
+MS-DOS until the release of version 5.0 in 1991
+even though DOS was designed from the begin-
+ning for use with video monitors.
+39. The story of Emacs is discussed in R.M. Stallman,
+The Emacs Full-Screen Editor, 1987; http://www.
+lysator.liu.se/history/garb/txt/87-1-emacs.txt;
+and S. Williams, Free as in Freedom, O’Reilly Press,
+2002, chapter 6.
+40. Thompson discussed his work on techniques to
+process regular expressions in K. Thompson,
+“Regular Expression Search Algorithm,” Comm.
+ACM, vol. 11, no. 6, 1968, pp. 419-422. The his-
+tory of QED variants is recounted in D. Ritchie, An
+Incomplete History of the QED Text Editor, Bell
+Labs; http://cm.bell-labs.com/cm/cs/who/dmr/
+qed.html.
+41. B.K. Reid and D. Hanson, “An Annotated Bibliog-
+IEEE Annals of the History of Computing
+Remembering the Office of the Future
+Page 24
+raphy of Background Material on Text Manipula-
+tion,” ACM SIGPLAN Notices, Proc. ACM SIGPLAN
+SIGOA Symp. Text Manipulation, vol. 16, no. 6,
+1981, pp. 157-160. Use of the Unix tools for
+word processing was described in M. Krieger,
+Word Processing on the Unix System (A Byte Book),
+McGraw-Hill, 1985.
+42. TeX is described in D.E. Knuth, The TeXbook
+(Computers and Typesetting, Volume A), Addison-
+Wesley, 1984.
+43. “Time Sharing: An Update Report,” Administrative
+Management, vol. 31, no. 3, 1970, pp. 20-22.
+44. “Is T/S OK for WP?” Administrative Management,
+vol. 32, no. 6, 1971, p. 50.
+45. W.H. Liebman, “Super-Typewriters: The Word-
+Processing Industry Has Arrived,” Barron’s Nation-
+al Business and Financial Weekly, 31 Mar. 1975.
+46. One newspaper layout system is discussed in M.J.
+Spier et al., “The Typeset 10 Message Exchange
+Facility: A Case Study in Systemic Design,” ACM
+SIGOPS Operating System Review, vol. 9, no. 1,
+1974, pp. 10-18.
+47. “Do-It-Yourself Phototypesetting,” Business Week,
+6 Sept. 1976, p. 56. One early photocomposition
+system of technical publishing was presented in
+F.L. Alt and J.Y. Kirk, “Computer Photocomposi-
+tion of Technical Text,” Comm. ACM, vol. 16, no.
+6, 1973, pp. 386-391.
+48. R.A. Hendel, “Minicomputer Word Processing: A
+Two-Year Case History,” Business Automation, vol.
+19, no. 8, 1972, pp. 35-37. A more general dis-
+cussion of minicomputers and word processing
+was given in J.R. Hanse, “Minis Impact Word-
+Processing,” Infosystems, vol. 23, no. 11, 1976,
+pp. 58.
+49. DEC itself eventually recognized the potential of
+word processing as a major application for its
+minicomputers, and in 1977 launched specialized
+word processing systems that could be used
+independently (when configured with disks and a
+printer) or as “intelligent terminals” for word pro-
+cessing and other tasks when connected to a
+PDP-11 minicomputer. International Data Corpo-
+ration (IDC), “Major Vendor Strategies in the Elec-
+tronic Office—Part I,” Market and Product Reports
+Collection (CBI 55), Charles Babbage Inst., Univ. of
+Minnesota, Minneapolis, Nov. 1983.
+50. “DEC Merges Word and Data Processing,” Busi-
+ness Week, 6 June 1977, p. 94C.
+51. K.F. Curley, Word Processing: First Step to the Office
+of the Future, Praeger, 1983, p. 44. Lexitron was
+founded in 1970 by “boy genius” Stephen Kurtin
+and went public in 1972, according to W.H. Lieb-
+man, “Super-Typewriters: The Word-Processing
+Industry Has Arrived,” Barron’s National Business
+and Financial Weekly, 31 Mar. 1975.The Lexitron
+is a rather obscure machine, and fits the descrip-
+tion of a machine first advertised and reported in
+Administrative Management in June 1971 as the
+“Editron” by a company called Word Processing
+Products Inc. Lexitron Corp. ran into problems
+and was purchased by Raytheon in 1978, but
+despite finally launching a floppy-disk-based
+word processor that year, it continued to strug-
+gle. “The Cautious Comeback of a Onetime
+Word Processing Champ,” Business Week, 5 May
+1980, p. 118E.
+52. “Vydec Finds it Helps to have Exxon’s Backing,”
+Business Week, 21 Nov. 1977, p. 102D. The price
+given is for 1977. Vydec is also discussed in K.F.
+Curley, Word Processing: First Step to the Office of
+the Future, p. 44.
+53. W.H. Liebman, “Super-Typewriters: The Word-
+Processing Industry Has Arrived,” Barron’s Nation-
+al Business and Financial Weekly, 31 Mar. 1975.
+54. “Why Qume Shot Ahead in Electronic Printers,”
+Business Week, 13 June 1977, p. 42J.
+55. “A Computer That’s Geared to Small Business,”
+Business Week, 21 Apr. 1975, p. 122D.
+56. Each of these represented a bundling of its exist-
+ing 2200 series processor, first sold in 1973, with
+a video terminal and hard disk (model 30), floppy
+disk (model 20) or tape (model 10) storage. See
+http://www.thebattles.net/wang/models.html#
+prehistory.
+57. Good technical information on Wang’s early
+word processors is hard to come by. The original
+brochure announcing the Word Processing sys-
+tem is available online at Wang Labs, Wang. The
+Last Word in Word Processing, 1976; http://www.
+harolds928people.org/images/wpbroch.htm.
+Howard Koplow, who led development of the
+Word Processor family, takes credit for persuad-
+ing An Wang that microprocessors should be
+used to create the Model 30 file server, rather
+than waiting for the completion of the VS series
+of minicomputers then under development. H.
+Koplow, Harold’s 920 People—Harold Koplow;
+http://www.harolds928people.org/people/
+koplow.htm.
+58. Wang Labs, Wang. The Last Word in Word Process-
+ing, 1976; http://www.harolds928people.org/
+images/wpbroch.htm.
+59. A. Wang and E. Linden, Lessons: An Autobiography,
+Addison-Wesley, 1986, p. 178.
+60. J. Zygmont, “Look Who Shrunk the Computer,”
+Boston Globe Magazine, 29 Dec. 2002, p. 24.
+61. “A Bold Lanier Takes Another Shot at IBM,” Busi-
+ness Week, 21 Nov. 1977, p. 102H.
+62. “A Brash Lanier Makes its Move,” Business Week,
+9 Oct. 1979, p. 102H.
+63. “Lanier Aims to Win Back its Office Leadership,”
+Business Week, 16 May 1983, p. 133.
+64. “IBM Enters the ‘Office of the Future,’” Business
+Week, 14 Feb. 1976, p. 133.
+65. International Business Machines, IBM Office Prod-
+October–December 2006
+Page 25
+ucts Division Highlights, 1976; http://www-03.
+ibm.com/ibm/history/exhibits/modelb/modelb_
+office.html.
+66. “IBM’s Office of the Future Entry,” Business Week,
+19 Nov. 1979, p. 150G.
+67. “When IBM is a Low-Priced Entry,” Business Week,
+7 July 1980, p. 82B. A more powerful IBM prod-
+uct, the 5520 Information System, was a competi-
+tor for Wang’s Office Information System. It
+networked up to 18 terminals to share files on a
+hard disk drive and a higher speed printer.
+68. “Wang’s Game Plan for the Office,” Business
+Week, 15 Dec. 1980, p. 84.
+69. T.M. Lodahl, “Designing the Automated Office:
+Organizational Functions of Data and Text,”
+Emerging Office Systems, R.M. Landau, ed., Ablex,
+1982, pp. 59-72.
+70. “Putting the Office in Place,” Business Week, 30
+June 1975, p. 56. The problems involved in cen-
+tralized word processing pools were subsequent-
+ly discussed widely: for example, in B. Garson,
+The Electronic Sweatshop: How Computers are
+Transforming the Office of the Future into the Facto-
+ry of the Past, Simon and Schuster, 1988.
+71. K.F. Curley, Word Processing: First Step to the Office
+of the Future, pp. 47-48.
+72. J. Harnett, “Demand for More Advanced
+Facilities—Word Processing and the New Genera-
+tion of Secretarial Workstations” Financial Times,
+1989, Survey p. IV.
+73. “Here Comes the Automated Office!” Infosystems,
+vol. 22, no. 9, 1975, pp. 13-15, 24, and “The
+Paths to the Paperless Office,” Business Week, 30
+June 1975, p. 80.
+74. In the 1950s, the phrase “office automation” fea-
+tured prominently in discussions of administrative
+computing such as Automation in the Office, Nat’l
+Office Management Assoc., 1957, and A.N. Sear-
+es, “Advancements in Office Automation,” The
+Hopper, vol. 4, no. 2, 1953, pp. 6-9.
+75. There may be another, more pragmatic reason
+for the vanishing of the term office automation:
+the phrase was trademarked by Automation
+Associates, a small firm founded by R. Hunt
+Brown that issued a series of glossy “Office
+Automation Reports” on administrative comput-
+ing technologies from 1955 onward. R.H. Brown,
+“Office Automation: A Handbook on Automatic
+Data Processing,” 1959, Market and Product
+Reports Collection (CBI 55), Charles Babbage
+Inst., Univ. of Minnesota, Minneapolis.
+76. The history of the management information sys-
+tem concept is explored in T. Haigh, “Inventing
+Information Systems: The Systems Men and the
+Computer, 1950−1968,” Business History Rev.,
+vol. 75, no. 1, 2001, pp. 15-61.
+77. “The Paths to the Paperless Office,” Business
+Week, 30 June 1975, p. 80.
+78. Engelbart’s story has been recounted in many
+places, but the only full-length study of his group
+is T. Bardini, Bootstrapping: Douglas Engelbart,
+Coevolution, and the Origins of Personal Comput-
+ing, Stanford Univ. Press, 2000.
+79. No transcript of the demonstration has been
+published. The quotation is based on the video
+recording hosted by Stanford University’s “Mouse
+Site” (http://sloan.stanford.edu/MouseSite/
+MouseSitePg1.html). Rather inconveniently, this
+is broken into 35 tiny pieces of streaming video—
+at the time of writing the appropriate one may
+be found at http://vodreal.stanford.edu/engel/
+05enge1200.ram.
+80. M. Hiltzik, Dealers of Lightning: Xerox PARC and
+the Dawn of the Computer Age, HarperBusiness,
+1999, pp. 121-124.
+81. B. Lampson, “Personal Distributed Computing: the
+Alto and Ethernet Software,” Proc. ACM Conference
+on the History of Personal Workstations, ACM Press,
+1986, pp. 101-131. Another PARC editor, Gypsy,
+developed by Larry Tesler, simplified the user inter-
+face through the elimination of different command
+modes and the use of the mouse to cut and paste
+text. This improved interface style was subsequent-
+ly used in an improved version of Bravo, named
+BravoX. Like NLS, the original Bravo responded
+quite differently to a given user action depending
+on which of many command modes had been
+selected. With BravoX, an action like typing a word
+or selecting text with the mouse would have a con-
+sistent outcome whatever commands had been
+used previously. This made it much easier for non-
+specialist users to work with the program.
+82. K.F. Curley, Word Processing: First Step to the Office
+of the Future, p. 109. Curley’s book appears to be
+a lightly edited version of her 1981 Harvard Busi-
+ness School thesis, and although the book does
+not specify when the survey was conducted,
+internal evidence suggests a date around 1979.
+For another study with similar findings and a
+comparable definition of the “highest level” of
+word processor use as being for “systemwide
+reinvention,” see B.M. Johnson and R.E. Rice,
+“Reinvention in the Innovation Process: The Case
+of Word Processing,” The New Media: Communi-
+cation, Research and Technology, R.E. Rice, ed.,
+Sage Publications, 1984, pp. 157-183.
+83. The efforts of Xerox to commercialize Alto tech-
+nology receive their most thorough discussion in
+M. Hiltzik, Dealers of Lightning: Xerox PARC and
+the Dawn of the Computer Age, HarperBusiness,
+1999, pp. 259-288 and 361-370.
+84. International Data Corporation (IDC), “Major
+Vendor Strategies in the Electronic Office—Part
+I,” Market and Product Reports Collection (CBI
+55), Charles Babbage Inst., Univ. of Minnesota,
+Nov. 1983.
+IEEE Annals of the History of Computing
+Remembering the Office of the Future
+Page 26
+85. Technical data on the specifications of various
+OIS models is given at J. Donoghu, Wang OIS
+Information Center; http://www.cass.net/
+~jdonoghu/. The first OIS file server unit was
+apparently a rebadged Word Processor 30 model.
+86. V. Flanders, “Wang’s Integrated Products: Past,
+Present and Future,” Access 86: The Magazine for
+Wang System Users, Dec. 1986, p. 33.
+87. “Wang Labs Challenges the Goliaths,” Business
+Week, 4 June 1979, p. 100.
+88. S.T. McClellan, The Coming Computer Industry
+Shakeout: Winners, Losers, and Survivors, John
+Wiley & Sons, 1984, pp. 299-303.
+89. S. Lohr, “Exxon Said to Lag in Office Machines:
+But Company Calls Problems Growing,” New
+York Times, 12 Aug. 1980, p. D1. Exxon’s office
+automation foray lost hundreds of millions of dol-
+lars, and never succeeded in integrating its prod-
+uct lines before being wound down from 1983
+onward. “Exxon Wants Out of the Automated
+Office,” Business Week, 17 Dec. 1984, p. 39.
+90. R.M. Dickinson, “Can Centralized Planning for
+Office Automation Ever Work in a Large Corpora-
+tion?” Emerging Office Systems, R. Landau, J. Bair,
+and J. Siegman, eds., Ablex, 1982, pp. 21-38.
+91. The idea that “the cost figures for secretarial serv-
+ices compared with management and profession-
+al services suggest, however, that it is in these
+areas the real benefits lie,” was also expressed in
+Xephon Technology Transfer, “Office Automation:
+An IBM User Perspective,” Gartner Group, Market
+and Product Reports Collection (CBI 55), Charles
+Babbage Inst., Univ. of Minnesota, Feb. 1982.
+92. Processed World Web site, 15 June 2006; http://
+www.processedworld.com.
+93. B. Garson, The Electronic Sweatshop: How Comput-
+ers are Transforming the Office of the Future into
+the Factory of the Past, Simon and Schuster, 1988;
+and S. Zuboff, In The Age of the Smart Machine:
+The Future of Work and Power, Basic Books, 1988.
+A voluminous academic literature appeared on
+the impact of the new technology on the organi-
+zation of office work, a good review of which is
+presented in M.C. Murphree, “New Technology
+and Office Tradition: The Not-So-Changing
+World of the Secretary,” Computer Chips and
+Paper Clips: Technology and Women’s Employment,
+Volume II: Case Studies and Policy Perspectives,
+Commission on Behavioral and Social Sciences
+and Education, ed., 1987, pp. 98-135.
+94. A brief discussion of the early market for word
+processing software is given in M. Campbell-
+Kelly, From Airline Reservations to Sonic the Hedge-
+hog, pp. 217-219.
+95. M. Shrayer, The Electric Pencil Word Processor
+Operator’s Manual, TheBattles.net, 1977; http://
+www.thebattles.net/sol20/manuals/pencil.pdf.
+The history of Electric Pencil is discussed in P.
+Freiberger and M. Swaine, Fire in the Valley: The
+Making of the Personal Computer, 2nd ed.,
+McGraw-Hill, 2000, pp. 186-188.
+96. P.A. McWilliams, The Word Processing Book: A
+Short Course in Computer Literacy, 5th ed.,
+Prelude Press, 1983, p. 211.
+97. Even in 1983, turning an Apple II into a machine
+capable of running WordStar well remained a tor-
+tuous process, costing several thousand dollars in
+addition to the price of a printer. See J. Mar, “Word
+Processing on the Apple with WordStar and Diablo,”
+Creative Computing, vol. 9, no. 3, 1983, p. 81.
+98. A. Naiman, Word Processing Buyer’s Guide,
+BYTE/McGraw-Hill, 1983, p. 177.
+99. Ibid., p. 81.
+100. C. Platt and D. Langford, Micromania: The Whole
+Truth about Personal Computers, Sphere, 1984, p.
+102. A. Naiman, Word Processing Buyer’s Guide, p. 91.
+102. The first version of WordPerfect was called
+SSI*WP, but was otherwise similar to the version
+launched for the IBM/PC in 1982. Its origins are
+explained in W.E. Peterson, Almost Perfect, Prima,
+1994. For an early review of the product, see L.L.
+Beavers, “WordPerfect: Not Quite Perfect, But
+Certainly Superb,” Creative Computing, vol. 9, no.
+11, 1983, p. 74. WordPerfect eventually support-
+ed a broad range of platforms, including DEC
+minicomputers and even IBM mainframes.
+103. US Bureau of Labor Statistics, Occupational Out-
+look Handbook, 2006-07 Edition: Data Entry and
+Information Processing Workers, US Dept. Labor, 4
+Aug. 2006; http://www.bls.gov/oco/ocos155.htm.
+Thomas Haigh is an assistant
+professor in the University of
+Wisconsin—Milwaukee’s School
+of Information Studies. He holds
+BSc and MEng degrees in systems
+integration from the University
+of Manchester, UK, and a PhD in
+the history and sociology of sci-
+ence from the University of Pennsylvania. He has pub-
+lished extensively on the history of computing, focusing
+on the use and management of computers in large
+organizations and on the history of software products
+and technologies. Biographies department editor of
+Annals, Haigh chairs the Special Interest Group on
+Computers, Information and Society of the Society for
+the History of Technology.
+Readers may contact Thomas Haigh at thaigh@
+computer.org; http://www.tomandmaria.com/tom.
+For further information on this or any other com-
+puting topic, please visit our Digital Library at http://
+computer.org/publications/dlib.
+October–December 2006
+
+(+)
